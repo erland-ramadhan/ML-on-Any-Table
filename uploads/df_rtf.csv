@@ -1,0 +1,1094 @@
+Agency,Agency Type,Distribution Channel,Product Name,Claim,Duration,Destination,Net Sales,Commision (in value),Gender,Age
+C2B,Airlines,Online,Silver Plan,Yes,88,SINGAPORE,254.5,63.63,F,50
+TST,Travel Agency,Offline,Travel Cruise Protect,No,74,MALAYSIA,30.0,10.5,F,48
+JZI,Airlines,Online,Basic Plan,No,4,THAILAND,18.0,6.3,F,36
+C2B,Airlines,Online,Bronze Plan,No,2,SINGAPORE,13.5,3.38,F,28
+JZI,Airlines,Online,Basic Plan,No,40,"TAIWAN, PROVINCE OF CHINA",26.0,9.1,M,45
+CSR,Travel Agency,Offline,Comprehensive Plan,Yes,67,THAILAND,29.0,9.57,F,64
+C2B,Airlines,Online,Silver Plan,Yes,57,SINGAPORE,78.5,19.63,M,42
+JZI,Airlines,Online,Value Plan,No,30,SPAIN,109.0,38.15,F,30
+C2B,Airlines,Online,Gold Plan,Yes,21,SINGAPORE,57.5,14.38,F,28
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,9,JAPAN,45.0,26.25,M,36
+JZI,Airlines,Online,Value Plan,No,12,AUSTRALIA,45.0,15.75,F,27
+C2B,Airlines,Online,Bronze Plan,No,49,SINGAPORE,25.5,6.38,F,56
+CCR,Travel Agency,Offline,Comprehensive Plan,Yes,142,THAILAND,29.0,9.57,F,29
+JZI,Airlines,Online,Basic Plan,No,105,UNITED ARAB EMIRATES,18.0,6.3,M,31
+C2B,Airlines,Online,Silver Plan,Yes,44,SINGAPORE,42.5,10.63,F,29
+C2B,Airlines,Online,Annual Silver Plan,Yes,386,SINGAPORE,193.2,48.3,F,65
+JZI,Airlines,Online,Basic Plan,No,27,PHILIPPINES,37.0,12.95,F,35
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,17.55,4.39,F,37
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,CHINA,204.6,132.99,M,41
+JZI,Airlines,Online,Value Plan,No,81,JAPAN,45.0,15.75,F,51
+C2B,Airlines,Online,Gold Plan,No,84,SINGAPORE,127.5,31.88,M,32
+C2B,Airlines,Online,Silver Plan,No,10,SINGAPORE,56.5,14.13,M,19
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,291.75,72.94,F,26
+JZI,Airlines,Online,Basic Plan,No,11,CHINA,26.0,9.1,F,28
+C2B,Airlines,Online,Bronze Plan,No,22,SINGAPORE,23.5,5.88,F,22
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,F,24
+TST,Travel Agency,Offline,Travel Cruise Protect,No,42,THAILAND,30.0,10.5,F,72
+C2B,Airlines,Online,Bronze Plan,Yes,11,SINGAPORE,16.0,4.0,F,114
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,374,CHINA,184.6,132.99,M,63
+C2B,Airlines,Online,Silver Plan,Yes,57,SINGAPORE,62.5,15.63,F,40
+JZI,Airlines,Online,Basic Plan,No,11,CHINA,26.0,9.1,F,37
+JZI,Airlines,Online,Basic Plan,No,54,THAILAND,22.0,7.7,F,41
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,161.0,40.25,M,38
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,34.5,8.13,M,26
+C2B,Airlines,Online,Bronze Plan,Yes,67,SINGAPORE,17.55,4.39,F,45
+RAB,Airlines,Online,Value Plan,No,7,BRUNEI DARUSSALAM,23.0,9.2,F,30
+C2B,Airlines,Online,Silver Plan,Yes,9,SINGAPORE,29.5,7.38,M,57
+JZI,Airlines,Online,Basic Plan,No,33,THAILAND,22.0,7.7,F,45
+C2B,Airlines,Online,Bronze Plan,No,14,SINGAPORE,17.55,4.39,M,29
+JZI,Airlines,Online,Basic Plan,Yes,18,CHINA,26.0,9.1,M,57
+C2B,Airlines,Online,Bronze Plan,Yes,18,SINGAPORE,53.5,13.38,F,59
+C2B,Airlines,Online,Bronze Plan,No,24,SINGAPORE,54.4,13.65,F,52
+C2B,Airlines,Online,Gold Plan,Yes,11,SINGAPORE,42.5,10.63,F,32
+JZI,Airlines,Online,Basic Plan,No,1,MALAYSIA,18.0,6.3,M,51
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,18.5,4.63,F,49
+C2B,Airlines,Online,Silver Plan,Yes,4,SINGAPORE,24.5,6.13,M,32
+C2B,Airlines,Online,Annual Silver Plan,Yes,364,SINGAPORE,252.85,63.21,M,41
+JZI,Airlines,Online,Basic Plan,No,3,JAPAN,22.0,7.7,F,22
+C2B,Airlines,Online,Silver Plan,Yes,55,SINGAPORE,78.9,19.73,M,32
+JZI,Airlines,Online,Basic Plan,No,62,PHILIPPINES,30.0,10.5,F,38
+C2B,Airlines,Online,Silver Plan,No,5,SINGAPORE,22.5,5.63,M,29
+JZI,Airlines,Online,Basic Plan,No,3,MALAYSIA,18.0,6.3,M,62
+C2B,Airlines,Online,Silver Plan,No,12,SINGAPORE,48.5,12.13,M,31
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,18.5,4.63,F,65
+JZI,Airlines,Online,Basic Plan,No,5,THAILAND,18.0,6.3,F,61
+C2B,Airlines,Online,Silver Plan,No,9,SINGAPORE,24.5,6.13,F,52
+JZI,Airlines,Online,Basic Plan,No,6,HONG KONG,22.0,7.7,M,37
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,13.5,3.38,F,33
+JZI,Airlines,Online,Basic Plan,No,48,VIET NAM,22.0,7.7,F,53
+JZI,Airlines,Online,Basic Plan,No,39,MYANMAR,58.0,20.3,F,37
+C2B,Airlines,Online,Bronze Plan,Yes,24,SINGAPORE,13.5,3.38,F,26
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,M,64
+JZI,Airlines,Online,Basic Plan,No,76,INDONESIA,18.0,6.3,F,47
+C2B,Airlines,Online,Bronze Plan,Yes,11,SINGAPORE,35.5,8.88,F,48
+C2B,Airlines,Online,Silver Plan,No,134,SINGAPORE,308.5,77.13,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,27.0,6.75,M,21
+C2B,Airlines,Online,Bronze Plan,No,36,SINGAPORE,35.5,8.88,F,41
+C2B,Airlines,Online,Silver Plan,No,9,SINGAPORE,53.5,13.38,F,31
+C2B,Airlines,Online,Silver Plan,No,33,SINGAPORE,58.5,14.13,M,19
+C2B,Airlines,Online,Silver Plan,No,12,SINGAPORE,48.5,12.13,F,35
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,164.0,48.0,F,37
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,389.35,97.34,F,29
+JZI,Airlines,Online,Basic Plan,No,61,INDONESIA,30.0,10.5,F,27
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,31,THAILAND,29.0,9.57,M,27
+C2B,Airlines,Online,Bronze Plan,No,11,SINGAPORE,47.0,11.75,M,26
+KML,Travel Agency,Online,Value Plan,No,81,FRANCE,95.0,36.1,F,48
+C2B,Airlines,Online,Bronze Plan,No,9,SINGAPORE,13.5,3.38,F,28
+JZI,Airlines,Online,Basic Plan,No,5,MALAYSIA,18.0,6.3,F,72
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,22,CHINA,35.0,22.25,F,34
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,193.2,48.3,M,44
+C2B,Airlines,Online,Silver Plan,Yes,112,SINGAPORE,72.0,18.0,F,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,369,SINGAPORE,216.75,54.19,M,31
+C2B,Airlines,Online,Silver Plan,Yes,6,SINGAPORE,18.5,4.63,M,38
+JZI,Airlines,Online,Basic Plan,No,12,CHINA,22.0,7.7,F,41
+C2B,Airlines,Online,Annual Silver Plan,No,406,SINGAPORE,300.0,75.0,F,37
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,365,UNITED STATES,256.2,166.53,M,50
+C2B,Airlines,Online,Silver Plan,Yes,43,SINGAPORE,144.0,36.0,F,42
+C2B,Airlines,Online,Silver Plan,Yes,13,SINGAPORE,58.0,14.5,F,48
+C2B,Airlines,Online,Annual Silver Plan,No,365,SINGAPORE,389.35,97.34,F,69
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,216.0,54.0,F,41
+JZI,Airlines,Online,Basic Plan,No,107,INDONESIA,22.0,7.7,M,50
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,112,JAPAN,40.0,26.0,F,36
+C2B,Airlines,Online,Bronze Plan,Yes,73,SINGAPORE,53.5,13.38,F,59
+JZI,Airlines,Online,Basic Plan,Yes,5,AUSTRALIA,22.0,7.7,M,42
+C2B,Airlines,Online,Silver Plan,No,4,SINGAPORE,24.5,6.13,M,51
+C2B,Airlines,Online,Silver Plan,Yes,13,SINGAPORE,22.5,5.63,F,32
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,18.5,4.63,F,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,193.2,48.3,F,46
+C2B,Airlines,Online,Bronze Plan,No,24,SINGAPORE,34.5,8.63,F,25
+C2B,Airlines,Online,Annual Gold Plan,Yes,368,SINGAPORE,322.35,80.84,F,43
+C2B,Airlines,Online,Gold Plan,No,12,SINGAPORE,72.0,18.0,F,43
+C2B,Airlines,Online,Silver Plan,Yes,11,SINGAPORE,47.5,11.88,M,27
+C2B,Airlines,Online,Silver Plan,No,38,SINGAPORE,56.5,14.13,F,32
+C2B,Airlines,Online,Silver Plan,Yes,65,SINGAPORE,108.9,26.4,M,18
+JZI,Airlines,Online,Basic Plan,No,3,INDONESIA,18.0,6.3,M,44
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,4,"TAIWAN, PROVINCE OF CHINA",36.5,20.13,F,21
+C2B,Airlines,Online,Silver Plan,Yes,94,SINGAPORE,53.5,13.38,F,47
+C2B,Airlines,Online,Silver Plan,No,23,SINGAPORE,74.5,18.13,F,26
+C2B,Airlines,Online,Silver Plan,Yes,65,SINGAPORE,54.65,13.66,M,22
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,24.5,6.13,M,16
+LWC,Travel Agency,Online,Annual Travel Protect Silver,No,460,UNITED STATES,430.0,149.5,F,71
+JZI,Airlines,Online,Basic Plan,Yes,7,INDONESIA,18.0,6.3,F,37
+JZI,Airlines,Online,Basic Plan,No,5,HONG KONG,22.0,7.7,M,62
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,28,PHILIPPINES,50.25,20.06,F,57
+C2B,Airlines,Online,Annual Silver Plan,No,406,SINGAPORE,259.2,64.8,F,23
+C2B,Airlines,Online,Silver Plan,Yes,4,SINGAPORE,18.5,4.63,F,67
+JZI,Airlines,Online,Basic Plan,No,122,THAILAND,22.0,7.7,F,28
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,20.25,5.06,F,32
+C2B,Airlines,Online,Gold Plan,Yes,17,SINGAPORE,118.3,29.57,F,35
+C2B,Airlines,Online,Bronze Plan,No,23,SINGAPORE,13.5,3.38,F,29
+CCR,Travel Agency,Offline,Comprehensive Plan,No,206,THAILAND,29.0,9.57,F,65
+JZI,Airlines,Online,Value Plan,No,83,"KOREA, REPUBLIC OF",109.0,38.15,F,32
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,58.2,14.55,F,69
+C2B,Airlines,Online,Silver Plan,Yes,32,SINGAPORE,40.0,10.0,F,50
+JZI,Airlines,Online,Basic Plan,Yes,17,INDONESIA,22.0,7.7,M,35
+TST,Travel Agency,Offline,Travel Cruise Protect,No,71,THAILAND,30.0,10.5,F,59
+C2B,Airlines,Online,Bronze Plan,No,12,SINGAPORE,29.5,7.38,F,29
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,13.5,3.38,F,25
+CSR,Travel Agency,Offline,Comprehensive Plan,Yes,161,THAILAND,29.0,9.57,F,71
+JZI,Airlines,Online,Basic Plan,No,82,INDIA,35.0,12.25,M,33
+C2B,Airlines,Online,Gold Plan,Yes,108,SINGAPORE,127.35,36.34,F,40
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,23.5,5.88,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,26.5,6.63,M,38
+C2B,Airlines,Online,Gold Plan,No,16,SINGAPORE,47.5,11.88,M,40
+C2B,Airlines,Online,Bronze Plan,Yes,4,SINGAPORE,13.5,3.38,M,34
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,PHILIPPINES,30.25,20.56,M,31
+C2B,Airlines,Online,Silver Plan,Yes,15,SINGAPORE,58.0,14.5,F,68
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,389.35,97.34,M,26
+JWT,Airlines,Online,Value Plan,No,28,INDIA,120.0,40.0,F,118
+C2B,Airlines,Online,Silver Plan,Yes,67,SINGAPORE,108.35,22.59,M,27
+TST,Travel Agency,Offline,Travel Cruise Protect,No,15,THAILAND,30.0,10.5,F,68
+C2B,Airlines,Online,Annual Silver Plan,Yes,372,SINGAPORE,0.0,48.3,M,47
+LWC,Travel Agency,Online,Annual Travel Protect Silver,No,461,UNITED STATES,280.25,180.56,F,27
+ART,Airlines,Online,Value Plan,No,26,CHINA,50.0,20.0,F,118
+C2B,Airlines,Online,Gold Plan,Yes,170,SINGAPORE,105.6,36.4,F,48
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,17.0,4.25,F,32
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,252.85,63.21,F,38
+C2B,Airlines,Online,Bronze Plan,No,20,SINGAPORE,74.5,18.63,F,29
+JZI,Airlines,Online,Basic Plan,No,32,PHILIPPINES,52.0,20.2,F,40
+C2B,Airlines,Online,Bronze Plan,No,14,SINGAPORE,13.5,3.38,M,79
+CSR,Travel Agency,Offline,Comprehensive Plan,No,31,MALAYSIA,29.0,9.57,F,29
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,389.35,97.34,F,49
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,216.0,54.0,F,36
+C2B,Airlines,Online,Bronze Plan,No,9,SINGAPORE,20.0,5.0,M,65
+C2B,Airlines,Online,Annual Silver Plan,Yes,408,SINGAPORE,161.0,40.25,F,38
+C2B,Airlines,Online,Bronze Plan,No,20,SINGAPORE,60.0,15.0,F,43
+C2B,Airlines,Online,Annual Silver Plan,No,365,SINGAPORE,401.0,75.25,M,26
+C2B,Airlines,Online,Silver Plan,No,3,SINGAPORE,25.0,6.25,F,26
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,14,CHINA,44.0,54.6,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,45,SINGAPORE,53.95,13.49,M,69
+JZI,Airlines,Online,Basic Plan,Yes,50,"TAIWAN, PROVINCE OF CHINA",26.0,9.1,F,29
+TST,Travel Agency,Offline,Travel Cruise Protect,No,71,THAILAND,30.0,10.5,M,17
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,252.85,63.21,M,38
+JZI,Airlines,Online,Value Plan,Yes,108,"KOREA, REPUBLIC OF",58.0,20.3,F,30
+JZI,Airlines,Online,Basic Plan,Yes,25,"TAIWAN, PROVINCE OF CHINA",100.0,37.1,M,49
+C2B,Airlines,Online,Silver Plan,No,32,SINGAPORE,53.5,13.38,F,27
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,8,JAPAN,25.0,16.25,F,31
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,24.4,6.05,F,32
+C2B,Airlines,Online,Silver Plan,Yes,6,SINGAPORE,54.5,13.63,F,32
+C2B,Airlines,Online,Silver Plan,No,29,SINGAPORE,72.5,18.63,M,32
+LWC,Travel Agency,Online,Annual Travel Protect Platinum,Yes,372,UNITED STATES,153.2,166.53,F,38
+JZI,Airlines,Online,Basic Plan,No,28,THAILAND,22.0,7.7,F,35
+C2B,Airlines,Online,Silver Plan,Yes,84,SINGAPORE,88.5,22.13,F,32
+C2B,Airlines,Online,Silver Plan,Yes,19,SINGAPORE,72.0,18.0,F,30
+C2B,Airlines,Online,Bronze Plan,Yes,57,SINGAPORE,60.0,15.0,F,31
+JZI,Airlines,Online,Basic Plan,No,22,THAILAND,18.0,6.3,M,45
+JZI,Airlines,Online,Basic Plan,Yes,29,HONG KONG,26.0,9.1,M,39
+C2B,Airlines,Online,Annual Silver Plan,Yes,378,SINGAPORE,216.0,54.0,F,30
+C2B,Airlines,Online,Silver Plan,No,112,SINGAPORE,72.0,18.0,F,32
+RAB,Airlines,Online,Value Plan,No,8,BRUNEI DARUSSALAM,15.0,6.0,M,51
+JZI,Airlines,Online,Basic Plan,No,45,INDONESIA,37.0,12.95,F,38
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,193.2,48.3,F,49
+CSR,Travel Agency,Offline,Comprehensive Plan,No,31,MALAYSIA,29.0,9.57,F,26
+C2B,Airlines,Online,Silver Plan,Yes,113,SINGAPORE,58.2,14.55,F,19
+C2B,Airlines,Online,Silver Plan,No,32,SINGAPORE,33.5,8.38,F,25
+C2B,Airlines,Online,Annual Silver Plan,Yes,398,SINGAPORE,216.0,54.0,F,41
+C2B,Airlines,Online,Silver Plan,Yes,1,SINGAPORE,22.5,5.63,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,4,SINGAPORE,22.5,5.63,F,25
+C2B,Airlines,Online,Bronze Plan,No,19,SINGAPORE,50.0,12.5,F,31
+JZI,Airlines,Online,Basic Plan,Yes,40,THAILAND,18.0,6.3,M,37
+C2B,Airlines,Online,Silver Plan,No,27,SINGAPORE,72.5,18.13,F,40
+JWT,Airlines,Online,Value Plan,No,40,INDIA,200.0,64.0,M,118
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,HONG KONG,44.0,28.6,M,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,390,SINGAPORE,291.75,72.94,M,66
+C2B,Airlines,Online,Silver Plan,No,132,SINGAPORE,100.5,25.13,F,53
+C2B,Airlines,Online,Silver Plan,Yes,3,SINGAPORE,18.5,4.63,F,21
+JZI,Airlines,Online,Basic Plan,No,23,PHILIPPINES,30.0,10.5,M,49
+C2B,Airlines,Online,Bronze Plan,Yes,18,SINGAPORE,15.0,3.75,M,52
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,118.5,29.63,F,34
+C2B,Airlines,Online,Bronze Plan,No,21,SINGAPORE,35.5,8.88,F,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,371,SINGAPORE,161.0,40.25,F,38
+C2B,Airlines,Online,Bronze Plan,No,2,SINGAPORE,21.5,5.88,F,30
+JZI,Airlines,Online,Basic Plan,No,203,MALAYSIA,18.0,6.3,M,32
+CSR,Travel Agency,Offline,Comprehensive Plan,Yes,50,THAILAND,29.0,9.57,F,29
+JZI,Airlines,Online,Value Plan,No,42,AUSTRALIA,45.0,15.75,M,76
+LWC,Travel Agency,Online,Annual Travel Protect Silver,No,481,CHINA,165.0,107.25,F,28
+C2B,Airlines,Online,Annual Silver Plan,No,390,SINGAPORE,216.0,54.0,F,42
+C2B,Airlines,Online,Silver Plan,Yes,44,SINGAPORE,47.5,11.88,M,32
+C2B,Airlines,Online,Silver Plan,Yes,9,SINGAPORE,28.6,6.6,F,31
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,20.0,5.0,M,26
+JZI,Airlines,Online,Basic Plan,No,78,MALAYSIA,18.0,6.3,M,42
+C2B,Airlines,Online,Bronze Plan,Yes,17,SINGAPORE,60.0,15.0,F,25
+JZI,Airlines,Online,Basic Plan,No,38,MALAYSIA,18.0,6.3,F,53
+C2B,Airlines,Online,Silver Plan,No,21,SINGAPORE,88.5,22.13,M,27
+C2B,Airlines,Online,Bronze Plan,Yes,15,SINGAPORE,53.5,13.38,F,26
+C2B,Airlines,Online,Silver Plan,Yes,44,SINGAPORE,46.8,17.7,F,26
+C2B,Airlines,Online,Silver Plan,Yes,3,SINGAPORE,15.0,3.75,M,32
+JZI,Airlines,Online,Basic Plan,No,3,SPAIN,18.0,6.3,F,30
+JZI,Airlines,Online,Basic Plan,No,25,MALAYSIA,18.0,6.3,F,54
+JZI,Airlines,Online,Basic Plan,No,107,INDONESIA,22.0,7.7,F,40
+C2B,Airlines,Online,Bronze Plan,No,82,SINGAPORE,47.55,11.39,M,27
+RAB,Airlines,Online,Value Plan,No,20,BRUNEI DARUSSALAM,15.0,6.0,M,20
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,27.5,6.88,F,40
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,5,THAILAND,32.0,20.8,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,56,SINGAPORE,56.5,14.13,F,68
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,26,THAILAND,29.0,9.57,M,57
+JZI,Airlines,Online,Basic Plan,No,182,INDONESIA,37.0,12.95,F,36
+JZI,Airlines,Online,Basic Plan,No,36,THAILAND,30.0,10.5,F,68
+C2B,Airlines,Online,Bronze Plan,No,26,SINGAPORE,27.0,6.75,F,56
+C2B,Airlines,Online,Bronze Plan,No,12,SINGAPORE,25.5,6.38,F,30
+C2B,Airlines,Online,Bronze Plan,Yes,22,SINGAPORE,53.5,13.38,F,32
+C2B,Airlines,Online,Silver Plan,No,3,SINGAPORE,22.5,5.63,F,24
+JZI,Airlines,Online,Basic Plan,No,3,MYANMAR,18.0,6.3,F,48
+JZI,Airlines,Online,Basic Plan,No,65,CHINA,40.0,14.0,F,44
+JZI,Airlines,Online,Basic Plan,No,16,MALAYSIA,18.0,6.3,M,27
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,22.5,5.63,F,70
+C2B,Airlines,Online,Silver Plan,Yes,24,SINGAPORE,24.5,6.13,F,39
+C2B,Airlines,Online,Silver Plan,Yes,44,SINGAPORE,146.4,36.6,F,62
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,112,JAPAN,44.0,55.6,F,61
+C2B,Airlines,Online,Gold Plan,Yes,7,SINGAPORE,27.5,6.88,F,35
+C2B,Airlines,Online,Bronze Plan,Yes,58,SINGAPORE,27.0,6.75,M,30
+JZI,Airlines,Online,Basic Plan,No,19,CAMBODIA,22.0,7.7,M,27
+C2B,Airlines,Online,Annual Silver Plan,Yes,364,SINGAPORE,222.85,55.21,F,41
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,29.5,7.38,M,33
+JZI,Airlines,Online,Basic Plan,Yes,14,PHILIPPINES,18.0,6.3,F,45
+C2B,Airlines,Online,Silver Plan,Yes,27,SINGAPORE,74.4,18.6,F,32
+CBH,Travel Agency,Offline,Comprehensive Plan,No,21,MALAYSIA,29.0,9.57,M,50
+JZI,Airlines,Online,Basic Plan,No,3,MALAYSIA,18.0,6.3,M,52
+JWT,Airlines,Online,Value Plan,No,223,INDIA,250.0,160.0,F,118
+C2B,Airlines,Online,Bronze Plan,Yes,16,SINGAPORE,35.5,8.88,M,47
+JZI,Airlines,Online,Value Plan,No,22,THAILAND,33.0,11.55,M,61
+C2B,Airlines,Online,Annual Silver Plan,Yes,384,SINGAPORE,216.0,54.0,M,70
+C2B,Airlines,Online,Bronze Plan,No,30,SINGAPORE,35.5,8.88,F,32
+C2B,Airlines,Online,Gold Plan,Yes,107,SINGAPORE,105.6,22.4,F,76
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,28,PHILIPPINES,74.0,28.0,F,40
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,32,JAPAN,35.0,22.25,F,33
+C2B,Airlines,Online,Silver Plan,Yes,9,SINGAPORE,25.5,6.38,M,27
+C2B,Airlines,Online,Silver Plan,Yes,11,SINGAPORE,72.0,18.0,F,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,482.85,48.36,M,31
+JZI,Airlines,Online,Basic Plan,No,57,THAILAND,22.0,7.7,F,55
+JZI,Airlines,Online,Basic Plan,Yes,61,INDONESIA,18.0,6.3,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,93,SINGAPORE,53.5,13.38,F,28
+C2B,Airlines,Online,Bronze Plan,Yes,27,SINGAPORE,20.0,5.0,F,25
+JZI,Airlines,Online,Basic Plan,Yes,16,CHINA,22.0,7.7,M,47
+C2B,Airlines,Online,Gold Plan,Yes,181,SINGAPORE,295.0,72.25,F,26
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,193.2,48.3,M,46
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,382.85,97.21,M,31
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,No,384,AUSTRALIA,97.0,0.0,F,57
+C2B,Airlines,Online,Gold Plan,Yes,157,SINGAPORE,108.3,22.53,M,36
+C2B,Airlines,Online,Gold Plan,Yes,21,SINGAPORE,242.5,54.63,M,38
+JZI,Airlines,Online,Basic Plan,No,10,CHINA,35.0,12.25,F,49
+C2B,Airlines,Online,Bronze Plan,No,4,SINGAPORE,20.0,5.0,F,33
+C2B,Airlines,Online,Bronze Plan,Yes,1,SINGAPORE,27.0,6.75,M,28
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,No,364,SINGAPORE,54.5,0.13,M,52
+CCR,Travel Agency,Offline,Comprehensive Plan,No,35,THAILAND,29.0,9.57,F,66
+JZI,Airlines,Online,Basic Plan,No,55,BANGLADESH,26.0,9.1,F,39
+JZI,Airlines,Online,Basic Plan,No,16,THAILAND,22.0,7.7,M,62
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,No,8,INDONESIA,42.8,28.3,F,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,161.0,40.25,F,37
+JZI,Airlines,Online,Basic Plan,No,35,CHINA,35.0,12.25,F,33
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,46.4,11.16,F,25
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,81.5,20.38,F,28
+JZI,Airlines,Online,Value Plan,No,13,AUSTRALIA,58.0,20.3,M,37
+C2B,Airlines,Online,Silver Plan,No,24,SINGAPORE,95.0,23.75,F,32
+C2B,Airlines,Online,Bronze Plan,No,21,SINGAPORE,35.5,8.88,M,66
+JZI,Airlines,Online,Basic Plan,No,8,THAILAND,18.0,6.3,M,67
+JZI,Airlines,Online,Basic Plan,No,38,INDONESIA,22.0,7.7,F,45
+JWT,Airlines,Online,Value Plan,No,32,INDIA,15.0,6.0,M,118
+JZI,Airlines,Online,Basic Plan,No,5,MALAYSIA,18.0,6.3,F,42
+C2B,Airlines,Online,Silver Plan,Yes,23,SINGAPORE,74.45,18.66,M,41
+C2B,Airlines,Online,Annual Silver Plan,No,371,SINGAPORE,216.0,54.0,M,44
+C2B,Airlines,Online,Silver Plan,Yes,47,SINGAPORE,63.5,15.88,F,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,M,54
+C2B,Airlines,Online,Bronze Plan,Yes,74,SINGAPORE,53.5,13.38,F,23
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,252.85,63.21,F,41
+JZI,Airlines,Online,Basic Plan,No,8,THAILAND,18.0,6.3,M,30
+JZI,Airlines,Online,Basic Plan,No,36,MYANMAR,42.0,14.7,F,40
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,58.2,14.55,F,39
+C2B,Airlines,Online,Silver Plan,Yes,27,SINGAPORE,62.5,13.63,F,28
+C2B,Airlines,Online,Bronze Plan,No,65,SINGAPORE,17.55,4.39,F,26
+JZI,Airlines,Online,Basic Plan,Yes,6,PHILIPPINES,18.0,6.3,F,32
+C2B,Airlines,Online,Annual Silver Plan,Yes,371,SINGAPORE,161.0,40.25,F,37
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,24,PHILIPPINES,25.0,16.25,F,48
+C2B,Airlines,Online,Silver Plan,No,21,SINGAPORE,74.4,18.6,M,41
+C2B,Airlines,Online,Silver Plan,Yes,7,SINGAPORE,34.5,8.13,F,38
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,13.5,3.38,F,59
+C2B,Airlines,Online,Bronze Plan,Yes,57,SINGAPORE,93.5,23.38,F,35
+JZI,Airlines,Online,Basic Plan,No,42,THAILAND,18.0,6.3,F,24
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,62.0,15.5,F,27
+C2B,Airlines,Online,Annual Silver Plan,No,388,SINGAPORE,216.0,54.0,M,23
+JWT,Airlines,Online,Value Plan,No,90,INDIA,73.0,38.2,F,118
+JWT,Airlines,Online,Value Plan,No,11,INDIA,72.0,28.8,M,118
+RAB,Airlines,Online,Value Plan,No,40,BRUNEI DARUSSALAM,31.0,12.4,M,52
+C2B,Airlines,Online,Bronze Plan,No,5,SINGAPORE,17.55,4.39,M,24
+C2B,Airlines,Online,Gold Plan,Yes,154,SINGAPORE,75.4,18.8,F,31
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,18.0,4.5,M,44
+C2B,Airlines,Online,Gold Plan,Yes,8,SINGAPORE,77.35,19.34,F,40
+C2B,Airlines,Online,Bronze Plan,Yes,53,SINGAPORE,21.0,5.25,F,77
+C2B,Airlines,Online,Bronze Plan,Yes,23,SINGAPORE,0.0,7.7,F,31
+C2B,Airlines,Online,Silver Plan,No,59,SINGAPORE,78.5,19.63,F,29
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,Yes,384,AUSTRALIA,97.0,0.0,F,29
+C2B,Airlines,Online,Bronze Plan,No,18,SINGAPORE,39.0,9.75,F,41
+C2B,Airlines,Online,Bronze Plan,Yes,57,SINGAPORE,62.0,15.5,M,30
+C2B,Airlines,Online,Silver Plan,Yes,13,SINGAPORE,58.0,14.5,M,41
+C2B,Airlines,Online,Bronze Plan,Yes,57,SINGAPORE,60.0,15.0,F,30
+C2B,Airlines,Online,Gold Plan,No,34,SINGAPORE,37.55,9.39,F,21
+C2B,Airlines,Online,Bronze Plan,Yes,101,SINGAPORE,21.5,5.88,F,30
+C2B,Airlines,Online,Silver Plan,No,23,SINGAPORE,84.6,21.65,M,26
+LWC,Travel Agency,Online,Single Trip Travel Protect Platinum,No,0,MALAYSIA,18.5,22.83,F,32
+C2B,Airlines,Online,Silver Plan,No,24,SINGAPORE,15.0,3.75,F,32
+C2B,Airlines,Online,Bronze Plan,No,23,SINGAPORE,20.0,5.0,F,49
+JZI,Airlines,Online,Basic Plan,No,28,CHINA,35.0,12.25,M,48
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,UNITED STATES,256.2,166.53,M,29
+JZI,Airlines,Online,Basic Plan,No,44,THAILAND,18.0,6.3,F,62
+JZI,Airlines,Online,Value Plan,Yes,24,CHINA,58.0,20.3,M,25
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,18,INDONESIA,48.0,26.3,F,28
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,54.6,13.65,F,50
+JZI,Airlines,Online,Basic Plan,No,44,INDONESIA,30.0,10.5,F,51
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,117,JAPAN,44.0,28.6,F,36
+C2B,Airlines,Online,Bronze Plan,No,29,SINGAPORE,50.0,12.5,F,38
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,376,CHINA,186.25,132.56,M,68
+C2B,Airlines,Online,Silver Plan,No,24,SINGAPORE,54.5,13.63,M,42
+C2B,Airlines,Online,Silver Plan,Yes,34,SINGAPORE,33.5,8.38,M,50
+JZI,Airlines,Online,Basic Plan,No,24,MALAYSIA,18.0,6.3,M,45
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,Yes,364,SINGAPORE,97.0,0.0,F,42
+JZI,Airlines,Online,Basic Plan,No,16,CHINA,35.0,12.25,M,54
+C2B,Airlines,Online,Bronze Plan,Yes,11,SINGAPORE,23.5,5.88,F,31
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,216.75,54.19,M,36
+ART,Airlines,Online,24 Protect,No,181,FRANCE,191.0,42.15,M,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,193.2,48.3,F,41
+C2B,Airlines,Online,Annual Silver Plan,No,365,SINGAPORE,216.0,54.0,M,26
+C2B,Airlines,Online,Bronze Plan,Yes,68,SINGAPORE,53.0,13.25,F,32
+C2B,Airlines,Online,Silver Plan,No,34,SINGAPORE,26.5,6.63,F,32
+C2B,Airlines,Online,Gold Plan,No,53,SINGAPORE,86.5,21.13,F,38
+JZI,Airlines,Online,Basic Plan,Yes,7,INDONESIA,18.0,6.3,F,60
+JZI,Airlines,Online,Basic Plan,No,85,INDONESIA,37.0,12.95,F,39
+JZI,Airlines,Online,Basic Plan,No,69,PHILIPPINES,30.0,10.5,F,39
+C2B,Airlines,Online,Silver Plan,Yes,26,SINGAPORE,74.4,18.6,F,30
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,216.0,54.1,F,39
+C2B,Airlines,Online,Silver Plan,Yes,18,SINGAPORE,53.5,13.38,M,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,371,SINGAPORE,252.85,63.21,F,68
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,M,57
+JZI,Airlines,Online,Basic Plan,No,38,PHILIPPINES,52.0,20.5,F,41
+JZI,Airlines,Online,Basic Plan,Yes,5,AUSTRALIA,22.0,7.7,F,35
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,F,34
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,382,UNITED STATES,256.2,166.53,F,72
+JZI,Airlines,Online,Basic Plan,No,9,MALAYSIA,18.0,6.3,M,33
+JZI,Airlines,Online,Value Plan,No,13,AUSTRALIA,58.0,20.3,M,30
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,216.0,54.0,F,42
+TST,Travel Agency,Offline,Travel Cruise Protect,No,29,THAILAND,30.0,10.5,M,19
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,No,7,PHILIPPINES,26.5,17.23,F,36
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,HONG KONG,25.0,16.25,M,28
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,30.5,7.63,M,27
+C2B,Airlines,Online,Bronze Plan,Yes,54,SINGAPORE,60.0,15.0,F,62
+C2B,Airlines,Online,Bronze Plan,Yes,26,SINGAPORE,60.0,15.0,F,31
+C2B,Airlines,Online,Bronze Plan,No,29,SINGAPORE,33.5,8.38,M,31
+C2B,Airlines,Online,Silver Plan,No,1,SINGAPORE,22.5,5.63,F,50
+JZI,Airlines,Online,Basic Plan,No,87,INDONESIA,42.0,14.7,F,50
+JZI,Airlines,Online,Basic Plan,No,13,INDONESIA,18.0,6.3,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,47,SINGAPORE,47.0,11.75,F,38
+C2B,Airlines,Online,Bronze Plan,No,48,SINGAPORE,53.5,13.38,M,48
+C2B,Airlines,Online,Gold Plan,Yes,120,SINGAPORE,105.6,38.4,M,48
+C2B,Airlines,Online,Bronze Plan,Yes,2,SINGAPORE,21.0,5.25,F,40
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,AUSTRALIA,1.0,42.95,M,28
+KML,Travel Agency,Online,Value Plan,No,56,GERMANY,95.0,36.0,M,67
+KML,Travel Agency,Online,Premier Plan,Yes,151,GUINEA,111.0,42.18,M,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,370,SINGAPORE,193.2,48.3,M,44
+RAB,Airlines,Online,Value Plan,Yes,67,BRUNEI DARUSSALAM,15.0,6.0,M,28
+JZI,Airlines,Online,Basic Plan,No,9,MALAYSIA,18.0,6.3,M,35
+JZI,Airlines,Online,Basic Plan,No,57,PHILIPPINES,30.0,10.5,F,27
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,365,UNITED STATES,329.25,217.33,M,46
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,4,THAILAND,22.5,10.63,F,29
+C2B,Airlines,Online,Bronze Plan,Yes,78,SINGAPORE,47.0,11.75,F,39
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,61,THAILAND,29.0,9.57,F,70
+RAB,Airlines,Online,Value Plan,No,24,BRUNEI DARUSSALAM,23.0,9.2,M,24
+JZI,Airlines,Online,Basic Plan,No,3,CAMBODIA,18.0,6.3,M,67
+C2B,Airlines,Online,Bronze Plan,No,28,SINGAPORE,30.55,7.64,F,31
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.5,6.13,F,36
+TST,Travel Agency,Offline,Travel Cruise Protect,No,71,THAILAND,30.0,10.5,M,84
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.5,6.13,F,19
+C2B,Airlines,Online,Silver Plan,No,8,SINGAPORE,22.5,5.63,F,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,193.2,48.3,F,46
+C2B,Airlines,Online,Bronze Plan,Yes,31,SINGAPORE,20.0,5.0,M,28
+C2B,Airlines,Online,Bronze Plan,Yes,67,SINGAPORE,100.0,25.0,M,36
+C2B,Airlines,Online,Silver Plan,Yes,44,SINGAPORE,24.5,6.13,F,21
+ART,Airlines,Online,24 Protect,Yes,67,MACAO,100.25,35.06,M,48
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,10,UNITED STATES,86.25,54.53,F,68
+C2B,Airlines,Online,Annual Silver Plan,No,365,SINGAPORE,187.85,46.96,F,44
+JZI,Airlines,Online,Basic Plan,No,144,JAPAN,40.0,14.0,M,49
+KML,Travel Agency,Online,Value Plan,Yes,25,INDONESIA,128.0,48.3,F,48
+JZI,Airlines,Online,Basic Plan,Yes,8,MYANMAR,18.0,6.3,F,73
+C2B,Airlines,Online,Silver Plan,Yes,105,SINGAPORE,24.5,6.13,F,26
+C2B,Airlines,Online,Silver Plan,Yes,11,SINGAPORE,48.5,12.13,M,32
+C2B,Airlines,Online,Silver Plan,Yes,11,SINGAPORE,48.5,12.13,F,39
+LWC,Travel Agency,Online,Premier Plan,Yes,10,UNITED STATES,111.2,42.83,M,48
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,6,THAILAND,32.0,20.8,F,54
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.05,6.01,F,72
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,17.55,4.39,F,28
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,30.5,7.63,F,32
+JZI,Airlines,Online,Value Plan,No,16,"KOREA, REPUBLIC OF",58.0,20.3,F,57
+JWT,Airlines,Online,Value Plan,No,20,INDIA,120.0,48.0,M,118
+JZI,Airlines,Online,Basic Plan,No,55,THAILAND,22.0,7.7,F,31
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,29.5,7.38,M,21
+TST,Travel Agency,Offline,Travel Cruise Protect,Yes,78,THAILAND,30.0,10.5,F,68
+JZI,Airlines,Online,Basic Plan,No,46,JAPAN,40.0,14.0,M,43
+JZI,Airlines,Online,Basic Plan,No,5,PHILIPPINES,18.0,6.3,F,34
+JZI,Airlines,Online,Basic Plan,No,12,INDONESIA,33.0,11.55,M,47
+C2B,Airlines,Online,Silver Plan,Yes,11,SINGAPORE,41.5,10.38,F,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,193.2,54.8,F,36
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,161.0,40.25,F,37
+JZI,Airlines,Online,Basic Plan,Yes,34,THAILAND,22.0,7.7,M,26
+CCR,Travel Agency,Offline,Comprehensive Plan,No,220,MALAYSIA,29.0,9.57,F,70
+JZI,Airlines,Online,Basic Plan,No,80,PHILIPPINES,37.0,12.95,F,39
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,16.0,4.0,M,39
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,8,INDONESIA,22.5,12.23,F,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,377,SINGAPORE,216.0,54.0,M,35
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,13.5,3.38,F,30
+C2B,Airlines,Online,Annual Silver Plan,Yes,391,SINGAPORE,216.0,54.0,M,41
+C2B,Airlines,Online,Silver Plan,Yes,21,SINGAPORE,54.5,13.63,F,27
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,105,THAILAND,29.0,9.57,F,69
+JZI,Airlines,Online,Basic Plan,No,4,AUSTRALIA,22.0,7.7,M,49
+JZI,Airlines,Online,Basic Plan,No,56,THAILAND,22.0,7.7,F,45
+JZI,Airlines,Online,Basic Plan,No,0,PHILIPPINES,18.0,6.3,F,27
+C2B,Airlines,Online,Annual Silver Plan,No,419,SINGAPORE,301.0,75.25,F,31
+JZI,Airlines,Online,Value Plan,No,17,JAPAN,45.0,15.75,M,49
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,216.0,54.0,F,33
+C2B,Airlines,Online,Silver Plan,No,8,SINGAPORE,29.5,7.38,F,23
+C2B,Airlines,Online,Annual Silver Plan,Yes,385,SINGAPORE,216.0,54.0,M,37
+C2B,Airlines,Online,Gold Plan,No,131,SINGAPORE,491.5,120.88,F,48
+C2B,Airlines,Online,Annual Gold Plan,No,380,SINGAPORE,333.5,83.38,F,29
+JZI,Airlines,Online,Basic Plan,No,20,THAILAND,18.0,6.3,M,22
+C2B,Airlines,Online,Annual Silver Plan,Yes,370,SINGAPORE,193.25,48.31,M,46
+JZI,Airlines,Online,Basic Plan,No,15,VIET NAM,30.0,10.5,M,34
+C2B,Airlines,Online,Bronze Plan,No,37,SINGAPORE,0.0,13.25,F,32
+C2B,Airlines,Online,24 Protect,Yes,12,SINGAPORE,35.4,8.85,F,36
+JZI,Airlines,Online,Value Plan,No,8,PHILIPPINES,26.0,9.1,M,48
+C2B,Airlines,Online,Silver Plan,Yes,46,SINGAPORE,57.5,14.38,F,59
+JZI,Airlines,Online,Basic Plan,No,27,INDONESIA,22.0,7.7,F,42
+C2B,Airlines,Online,Annual Silver Plan,Yes,372,SINGAPORE,187.85,46.96,F,68
+JZI,Airlines,Online,Basic Plan,No,51,THAILAND,22.0,7.7,F,61
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,Yes,368,SINGAPORE,97.0,0.0,F,28
+JZI,Airlines,Online,Basic Plan,No,12,VIET NAM,30.0,10.5,M,48
+JZI,Airlines,Online,Basic Plan,No,44,THAILAND,18.0,6.3,M,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,370,SINGAPORE,193.2,48.3,M,31
+JZI,Airlines,Online,Basic Plan,Yes,78,VIET NAM,22.0,7.7,F,45
+JZI,Airlines,Online,Basic Plan,No,131,JAPAN,35.0,12.25,F,27
+C2B,Airlines,Online,Silver Plan,Yes,182,SINGAPORE,154.6,36.6,F,70
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,11.5,2.88,M,22
+JZI,Airlines,Online,Value Plan,No,19,UNITED STATES,121.0,42.35,M,47
+C2B,Airlines,Online,Silver Plan,No,7,SINGAPORE,24.4,6.15,M,38
+C2B,Airlines,Online,Silver Plan,No,13,SINGAPORE,18.5,4.63,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,20.0,5.0,M,30
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,M,29
+JZI,Airlines,Online,Basic Plan,Yes,87,PHILIPPINES,42.0,14.7,F,40
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,CHINA,204.6,132.99,F,41
+C2B,Airlines,Online,Silver Plan,Yes,104,SINGAPORE,33.5,8.38,M,32
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,16.0,4.0,F,48
+C2B,Airlines,Online,Bronze Plan,No,11,SINGAPORE,23.5,5.88,M,54
+KML,Travel Agency,Online,Premier Plan,No,22,FRANCE,161.0,42.42,F,48
+C2B,Airlines,Online,Bronze Plan,Yes,24,SINGAPORE,63.5,15.88,M,27
+JZI,Airlines,Online,Value Plan,No,29,UNITED STATES,121.0,42.35,F,48
+C2B,Airlines,Online,Silver Plan,Yes,14,SINGAPORE,22.5,5.63,M,27
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,52,FRANCE,135.0,43.55,F,32
+C2B,Airlines,Online,Bronze Plan,No,9,SINGAPORE,20.5,5.13,M,36
+KML,Travel Agency,Online,Value Plan,Yes,153,UNITED STATES,108.0,42.44,F,48
+C2B,Airlines,Online,Silver Plan,Yes,40,SINGAPORE,44.5,11.13,F,57
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,252.85,63.21,M,41
+ART,Airlines,Online,24 Protect,No,51,THAILAND,8.21,2.9,F,48
+C2B,Airlines,Online,Bronze Plan,No,36,SINGAPORE,46.8,11.7,F,47
+JZI,Airlines,Online,Value Plan,No,44,CHINA,58.0,20.3,F,30
+C2B,Airlines,Online,Gold Plan,Yes,17,SINGAPORE,78.3,19.57,M,71
+JZI,Airlines,Online,Basic Plan,No,8,HONG KONG,26.0,9.1,M,47
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,389.35,97.34,F,79
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,5,PHILIPPINES,76.5,30.63,M,42
+JZI,Airlines,Online,Basic Plan,No,21,CHINA,22.0,7.7,M,41
+C2B,Airlines,Online,Bronze Plan,Yes,72,SINGAPORE,53.5,13.38,F,38
+C2B,Airlines,Online,Annual Silver Plan,Yes,378,SINGAPORE,216.0,54.0,M,36
+C2B,Airlines,Online,Bronze Plan,No,13,SINGAPORE,13.5,3.38,M,45
+KML,Travel Agency,Online,Premier Plan,No,45,INDONESIA,48.0,14.44,F,48
+JZI,Airlines,Online,Basic Plan,Yes,54,THAILAND,18.0,6.3,F,37
+C2B,Airlines,Online,Bronze Plan,Yes,15,SINGAPORE,16.0,4.0,F,35
+TTW,Travel Agency,Offline,Child Comprehensive Plan,No,367,SINGAPORE,74.0,0.0,F,30
+CSR,Travel Agency,Offline,Comprehensive Plan,No,132,MALAYSIA,29.0,9.57,F,64
+JZI,Airlines,Online,Basic Plan,Yes,11,MALAYSIA,22.0,7.7,F,59
+JZI,Airlines,Online,Basic Plan,Yes,48,JAPAN,40.0,14.0,M,48
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,393.5,73.38,F,46
+JZI,Airlines,Online,Basic Plan,No,17,INDONESIA,18.0,6.3,F,40
+C2B,Airlines,Online,Annual Silver Plan,Yes,385,SINGAPORE,252.85,63.21,F,29
+C2B,Airlines,Online,Silver Plan,Yes,47,SINGAPORE,295.0,73.75,F,48
+CSR,Travel Agency,Offline,Comprehensive Plan,No,29,MALAYSIA,29.0,9.57,F,67
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,187.85,46.96,F,37
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,112,NEW ZEALAND,117.75,54.44,F,64
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,23.5,5.88,M,59
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,216.75,54.19,F,39
+JZI,Airlines,Online,Basic Plan,Yes,28,PHILIPPINES,22.0,7.7,F,45
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,193.2,48.3,M,41
+KML,Travel Agency,Online,Value Plan,No,55,INDONESIA,28.0,18.24,F,48
+JZI,Airlines,Online,Basic Plan,No,38,JAPAN,35.0,12.25,F,39
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,54.5,13.63,M,28
+JZI,Airlines,Online,Basic Plan,No,19,INDONESIA,22.0,7.7,F,57
+JZI,Airlines,Online,Basic Plan,No,5,MALAYSIA,18.0,6.3,M,43
+JZI,Airlines,Online,Value Plan,No,11,AUSTRALIA,45.0,15.75,M,35
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,309.35,72.34,M,47
+C2B,Airlines,Online,Bronze Plan,Yes,24,SINGAPORE,53.5,13.38,F,68
+C2B,Airlines,Online,Bronze Plan,No,29,SINGAPORE,16.0,4.0,F,33
+C2B,Airlines,Online,Bronze Plan,Yes,24,SINGAPORE,54.5,13.63,M,62
+CCR,Travel Agency,Offline,Comprehensive Plan,Yes,105,THAILAND,29.0,9.57,M,65
+C2B,Airlines,Online,Bronze Plan,Yes,102,SINGAPORE,25.6,6.6,F,48
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,8,THAILAND,22.5,10.63,F,28
+C2B,Airlines,Online,Silver Plan,No,9,SINGAPORE,29.5,7.38,F,33
+LWC,Travel Agency,Online,Annual Travel Protect Silver,Yes,367,UNITED STATES,229.2,149.37,M,64
+C2B,Airlines,Online,Bronze Plan,No,107,SINGAPORE,23.5,5.88,F,65
+JZI,Airlines,Online,Value Plan,No,15,"KOREA, REPUBLIC OF",45.0,15.75,M,47
+C2B,Airlines,Online,Bronze Plan,No,67,SINGAPORE,22.5,5.63,F,25
+JZI,Airlines,Online,Basic Plan,No,84,MYANMAR,33.0,11.55,F,50
+C2B,Airlines,Online,Gold Plan,Yes,54,SINGAPORE,127.0,46.75,F,29
+JZI,Airlines,Online,Basic Plan,Yes,12,THAILAND,22.0,7.7,F,25
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,193.2,48.3,F,46
+C2B,Airlines,Online,Silver Plan,Yes,57,SINGAPORE,62.0,15.5,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,20,SINGAPORE,53.5,13.38,F,32
+ART,Airlines,Online,24 Protect,No,11,THAILAND,22.11,7.76,M,48
+C2B,Airlines,Online,Bronze Plan,Yes,20,SINGAPORE,23.5,5.88,F,45
+C2B,Airlines,Online,Annual Silver Plan,No,365,SINGAPORE,389.3,97.34,F,66
+JZI,Airlines,Online,Basic Plan,No,34,PHILIPPINES,37.0,12.95,F,35
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,193.2,48.3,F,65
+C2B,Airlines,Online,Silver Plan,Yes,113,SINGAPORE,72.0,18.0,F,70
+C2B,Airlines,Online,Annual Gold Plan,Yes,362,SINGAPORE,299.2,74.8,F,29
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,27.0,6.75,F,40
+C2B,Airlines,Online,Bronze Plan,Yes,18,SINGAPORE,40.0,10.0,F,30
+C2B,Airlines,Online,Gold Plan,No,5,SINGAPORE,57.5,14.38,M,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,204.5,52.13,F,31
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,161.0,40.25,F,36
+C2B,Airlines,Online,Gold Plan,Yes,111,SINGAPORE,117.35,29.34,F,59
+JZI,Airlines,Online,Value Plan,No,22,THAILAND,33.0,11.55,M,50
+RAB,Airlines,Online,Value Plan,Yes,8,BRUNEI DARUSSALAM,15.0,6.0,F,47
+C2B,Airlines,Online,Silver Plan,Yes,42,SINGAPORE,147.8,36.75,F,33
+JZI,Airlines,Online,Basic Plan,No,3,HONG KONG,22.0,7.7,F,41
+C2B,Airlines,Online,Silver Plan,No,54,SINGAPORE,88.5,22.13,M,19
+C2B,Airlines,Online,Silver Plan,No,34,SINGAPORE,18.5,4.63,F,41
+JZI,Airlines,Online,Basic Plan,No,67,PHILIPPINES,37.0,12.95,F,40
+C2B,Airlines,Online,Silver Plan,Yes,14,SINGAPORE,22.5,5.63,F,68
+C2B,Airlines,Online,Silver Plan,No,157,SINGAPORE,308.0,77.0,F,30
+JZI,Airlines,Online,Basic Plan,Yes,5,INDONESIA,18.0,6.3,M,48
+CSR,Travel Agency,Offline,Comprehensive Plan,Yes,71,THAILAND,29.0,9.57,F,63
+RAB,Airlines,Online,Value Plan,No,5,BRUNEI DARUSSALAM,15.0,6.0,M,40
+C2B,Airlines,Online,Silver Plan,Yes,65,SINGAPORE,104.5,23.13,M,37
+C2B,Airlines,Online,Silver Plan,Yes,24,SINGAPORE,54.5,13.63,F,60
+JZI,Airlines,Online,Basic Plan,No,65,INDONESIA,18.0,6.3,F,48
+C2B,Airlines,Online,Annual Silver Plan,No,374,SINGAPORE,187.85,46.96,F,37
+JZI,Airlines,Online,Basic Plan,No,50,HONG KONG,0.0,7.5,M,62
+JZI,Airlines,Online,Basic Plan,No,55,UNITED ARAB EMIRATES,0.0,17.15,F,48
+C2B,Airlines,Online,Gold Plan,Yes,5,SINGAPORE,42.5,10.63,M,41
+C2B,Airlines,Online,Silver Plan,Yes,47,SINGAPORE,108.5,27.13,F,26
+C2B,Airlines,Online,Silver Plan,Yes,18,SINGAPORE,72.0,18.0,F,30
+C2B,Airlines,Online,Gold Plan,Yes,185,SINGAPORE,495.0,126.0,F,36
+C2B,Airlines,Online,Gold Plan,Yes,57,SINGAPORE,127.5,31.88,F,25
+JZI,Airlines,Online,Basic Plan,No,55,"TAIWAN, PROVINCE OF CHINA",22.0,7.7,M,49
+JZI,Airlines,Online,Value Plan,Yes,57,JAPAN,45.0,15.75,M,49
+C2B,Airlines,Online,Bronze Plan,No,5,SINGAPORE,17.55,4.39,M,32
+JZI,Airlines,Online,Basic Plan,No,21,INDONESIA,37.0,12.95,F,37
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,42.0,10.5,F,31
+JZI,Airlines,Online,Basic Plan,No,28,INDIA,26.0,9.1,F,45
+C2B,Airlines,Online,Silver Plan,Yes,3,SINGAPORE,18.5,4.63,F,32
+C2B,Airlines,Online,Bronze Plan,No,72,SINGAPORE,53.0,13.25,F,33
+C2B,Airlines,Online,Bronze Plan,Yes,17,SINGAPORE,40.0,10.0,F,35
+JZI,Airlines,Online,Basic Plan,No,5,BANGLADESH,22.0,7.7,M,34
+JZI,Airlines,Online,Basic Plan,No,23,PHILIPPINES,18.0,6.3,F,57
+C2B,Airlines,Online,Silver Plan,Yes,7,SINGAPORE,22.5,5.63,F,30
+C2B,Airlines,Online,Annual Silver Plan,No,404,SINGAPORE,252.85,63.21,F,41
+C2B,Airlines,Online,Annual Silver Plan,Yes,376,SINGAPORE,161.0,40.25,M,37
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,216.2,54.0,F,36
+C2B,Airlines,Online,Bronze Plan,Yes,4,SINGAPORE,13.5,3.38,F,30
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,17,CAMBODIA,86.6,54.57,M,44
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,F,68
+JZI,Airlines,Online,Basic Plan,No,32,CHINA,0.0,14.0,F,33
+C2B,Airlines,Online,Annual Silver Plan,Yes,374,SINGAPORE,193.2,48.3,F,66
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,373,INDONESIA,164.2,108.16,F,26
+KML,Travel Agency,Online,Value Plan,No,49,INDONESIA,38.0,14.44,F,48
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,18,THAILAND,30.25,20.96,F,31
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,23.4,5.85,M,34
+C2B,Airlines,Online,Gold Plan,No,21,SINGAPORE,69.5,17.38,M,52
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,63.5,15.88,F,67
+JZI,Airlines,Online,Basic Plan,No,55,JAPAN,26.0,9.1,M,46
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,61,THAILAND,29.0,9.57,F,24
+RAB,Airlines,Online,Value Plan,No,3,BRUNEI DARUSSALAM,15.0,6.0,M,34
+C2B,Airlines,Online,Annual Gold Plan,No,424,SINGAPORE,333.0,83.25,M,54
+KML,Travel Agency,Online,Value Plan,No,23,SPAIN,133.0,42.54,F,48
+C2B,Airlines,Online,Bronze Plan,No,20,SINGAPORE,35.5,8.88,F,22
+TST,Travel Agency,Offline,Travel Cruise Protect,No,15,THAILAND,30.0,10.5,F,27
+C2B,Airlines,Online,Silver Plan,Yes,42,SINGAPORE,141.5,31.88,F,32
+C2B,Airlines,Online,Bronze Plan,No,9,SINGAPORE,27.0,6.75,M,43
+C2B,Airlines,Online,Annual Silver Plan,Yes,398,SINGAPORE,252.85,63.21,F,43
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.5,6.13,F,38
+JZI,Airlines,Online,Basic Plan,No,28,THAILAND,22.0,7.7,M,37
+C2B,Airlines,Online,Bronze Plan,Yes,13,SINGAPORE,39.5,9.88,F,28
+C2B,Airlines,Online,Silver Plan,No,34,SINGAPORE,63.5,15.88,F,32
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,No,364,SINGAPORE,97.0,0.0,F,37
+JZI,Airlines,Online,Basic Plan,No,20,MYANMAR,33.0,11.55,F,38
+C2B,Airlines,Online,Bronze Plan,No,31,SINGAPORE,0.0,12.05,F,30
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,UNITED STATES,256.2,166.53,F,38
+C2B,Airlines,Online,Bronze Plan,Yes,57,SINGAPORE,78.0,19.5,F,24
+JZI,Airlines,Online,Basic Plan,No,3,THAILAND,18.0,6.3,M,65
+C2B,Airlines,Online,Silver Plan,No,4,SINGAPORE,31.8,7.95,M,46
+C2B,Airlines,Online,Bronze Plan,Yes,12,SINGAPORE,53.5,13.38,M,34
+C2B,Airlines,Online,Silver Plan,Yes,27,SINGAPORE,108.1,27.02,F,32
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,216.0,54.0,F,40
+JZI,Airlines,Online,Basic Plan,No,81,PHILIPPINES,37.0,12.95,F,41
+JZI,Airlines,Online,Basic Plan,No,18,CHINA,26.0,9.1,F,48
+LWC,Travel Agency,Online,Annual Travel Protect Silver,Yes,367,UNITED STATES,206.25,186.56,F,68
+JZI,Airlines,Online,Basic Plan,Yes,23,THAILAND,22.0,7.7,F,49
+C2B,Airlines,Online,Bronze Plan,Yes,9,SINGAPORE,20.0,5.0,M,75
+JZI,Airlines,Online,Value Plan,Yes,151,UNITED STATES,109.0,27.15,F,36
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,14,CHINA,45.0,24.75,F,32
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,68,INDONESIA,48.0,26.4,F,48
+JZI,Airlines,Online,Basic Plan,Yes,15,CHINA,26.0,9.1,M,56
+JZI,Airlines,Online,Value Plan,No,26,UNITED STATES,100.0,43.4,F,48
+ART,Airlines,Online,24 Protect,Yes,25,PHILIPPINES,101.67,31.92,M,48
+JZI,Airlines,Online,Basic Plan,Yes,68,JAPAN,35.0,12.25,M,28
+C2B,Airlines,Online,Bronze Plan,No,6,SINGAPORE,18.5,4.63,M,42
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,10.0,4.0,M,46
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,385,CHINA,204.6,132.99,F,33
+C2B,Airlines,Online,Bronze Plan,No,13,SINGAPORE,34.55,8.19,M,22
+JZI,Airlines,Online,Basic Plan,Yes,45,JAPAN,40.0,14.0,F,39
+JZI,Airlines,Online,Basic Plan,No,1,THAILAND,22.0,7.7,F,57
+JZI,Airlines,Online,Basic Plan,Yes,4,THAILAND,18.0,6.3,F,23
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,17.55,4.39,F,39
+C2B,Airlines,Online,Bronze Plan,Yes,21,SINGAPORE,47.0,11.75,F,31
+JZI,Airlines,Online,Basic Plan,No,24,INDONESIA,37.0,12.95,F,40
+C2B,Airlines,Online,Gold Plan,Yes,8,SINGAPORE,42.5,10.63,F,30
+C2B,Airlines,Online,Silver Plan,No,29,SINGAPORE,86.5,21.13,M,32
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,72.0,18.0,M,25
+C2B,Airlines,Online,Gold Plan,Yes,102,SINGAPORE,25.0,6.25,M,75
+C2B,Airlines,Online,Annual Silver Plan,Yes,371,SINGAPORE,193.2,48.3,F,67
+JZI,Airlines,Online,Basic Plan,No,31,THAILAND,22.0,7.7,F,61
+C2B,Airlines,Online,Silver Plan,No,27,SINGAPORE,144.6,36.4,F,42
+C2B,Airlines,Online,Bronze Plan,No,32,SINGAPORE,20.0,5.0,M,33
+C2B,Airlines,Online,Silver Plan,No,4,SINGAPORE,18.5,4.63,M,64
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,JAPAN,50.0,20.5,F,68
+JZI,Airlines,Online,Basic Plan,No,65,"TAIWAN, PROVINCE OF CHINA",35.0,12.25,M,27
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,20.0,5.0,F,40
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,11.5,2.88,M,38
+JZI,Airlines,Online,Basic Plan,No,38,PHILIPPINES,37.0,12.95,F,33
+C2B,Airlines,Online,Bronze Plan,No,44,SINGAPORE,46.8,11.7,F,41
+C2B,Airlines,Online,Annual Gold Plan,Yes,374,SINGAPORE,322.0,80.5,F,28
+JZI,Airlines,Online,Basic Plan,Yes,88,JAPAN,35.0,12.25,F,39
+C2B,Airlines,Online,Bronze Plan,Yes,11,SINGAPORE,26.5,6.63,F,76
+KML,Travel Agency,Online,Value Plan,No,15,CHINA,58.0,20.34,F,58
+JZI,Airlines,Online,Basic Plan,No,90,MYANMAR,0.0,14.0,M,49
+C2B,Airlines,Online,Bronze Plan,Yes,13,SINGAPORE,33.5,8.38,F,24
+C2B,Airlines,Online,Annual Silver Plan,Yes,377,SINGAPORE,291.75,72.94,M,39
+C2B,Airlines,Online,Silver Plan,Yes,103,SINGAPORE,104.95,36.49,M,41
+C2B,Airlines,Online,Annual Gold Plan,No,364,SINGAPORE,389.35,97.34,M,32
+JZI,Airlines,Online,Basic Plan,No,14,HONG KONG,26.0,9.1,F,70
+ART,Airlines,Online,24 Protect,No,6,UNITED ARAB EMIRATES,22.09,7.7,M,48
+C2B,Airlines,Online,Silver Plan,No,8,SINGAPORE,46.8,11.7,F,42
+JZI,Airlines,Online,Basic Plan,No,92,JAPAN,40.0,14.0,F,43
+JZI,Airlines,Online,Basic Plan,Yes,38,"KOREA, REPUBLIC OF",26.0,9.1,F,30
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,21.0,5.25,M,45
+C2B,Airlines,Online,Silver Plan,Yes,41,SINGAPORE,47.5,11.88,F,31
+C2B,Airlines,Online,Annual Silver Plan,Yes,367,SINGAPORE,291.75,72.94,M,26
+JZI,Airlines,Online,Basic Plan,No,15,HONG KONG,26.0,9.1,M,35
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,25.25,6.31,M,32
+C2B,Airlines,Online,Bronze Plan,Yes,42,SINGAPORE,53.5,13.38,F,24
+C2B,Airlines,Online,Silver Plan,Yes,17,SINGAPORE,28.5,6.63,F,30
+C2B,Airlines,Online,Silver Plan,No,26,SINGAPORE,64.5,16.13,F,17
+C2B,Airlines,Online,Silver Plan,Yes,7,SINGAPORE,29.4,7.35,F,79
+C2B,Airlines,Online,Silver Plan,No,17,SINGAPORE,62.0,15.5,F,30
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,12,NEW ZEALAND,33.0,21.45,M,68
+C2B,Airlines,Online,Silver Plan,Yes,107,SINGAPORE,308.35,77.09,F,26
+JZI,Airlines,Online,Basic Plan,Yes,44,PHILIPPINES,52.0,18.2,F,28
+JZI,Airlines,Online,Basic Plan,No,10,THAILAND,22.0,7.7,M,40
+TTW,Travel Agency,Offline,Travel Cruise Protect,Yes,72,THAILAND,30.0,10.5,F,70
+KML,Travel Agency,Online,Premier Plan,No,44,BRAZIL,137.0,49.44,F,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,301.5,75.38,F,41
+C2B,Airlines,Online,Annual Silver Plan,No,380,SINGAPORE,216.75,54.19,M,60
+JZI,Airlines,Online,Value Plan,No,81,TURKEY,69.0,24.15,M,26
+C2B,Airlines,Online,Bronze Plan,Yes,22,SINGAPORE,100.0,25.0,F,41
+C2B,Airlines,Online,Bronze Plan,Yes,71,SINGAPORE,33.5,8.38,M,29
+C2B,Airlines,Online,Annual Silver Plan,Yes,390,SINGAPORE,252.85,63.21,F,41
+TST,Travel Agency,Offline,Travel Cruise Protect,No,71,THAILAND,30.0,10.5,M,59
+JZI,Airlines,Online,Basic Plan,Yes,172,INDONESIA,37.0,12.95,F,44
+C2B,Airlines,Online,Silver Plan,No,232,SINGAPORE,29.5,7.38,F,33
+JZI,Airlines,Online,Basic Plan,No,16,THAILAND,33.0,11.55,F,67
+C2B,Airlines,Online,Bronze Plan,Yes,10,SINGAPORE,21.0,5.25,F,25
+C2B,Airlines,Online,Silver Plan,Yes,117,SINGAPORE,108.5,27.13,F,40
+JZI,Airlines,Online,Value Plan,No,20,THAILAND,33.0,11.55,M,46
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,24.05,6.01,F,44
+TST,Travel Agency,Offline,Travel Cruise Protect,No,52,THAILAND,30.0,10.5,F,68
+C2B,Airlines,Online,Silver Plan,Yes,18,SINGAPORE,54.5,13.63,M,60
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,M,68
+C2B,Airlines,Online,Silver Plan,No,33,SINGAPORE,56.5,14.13,F,68
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,252.85,63.21,M,40
+C2B,Airlines,Online,Silver Plan,Yes,4,SINGAPORE,22.5,5.63,F,42
+JZI,Airlines,Online,Basic Plan,No,14,THAILAND,22.0,7.7,M,47
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,28,PHILIPPINES,25.0,16.25,F,48
+C2B,Airlines,Online,Silver Plan,Yes,112,SINGAPORE,117.5,29.88,M,30
+JZI,Airlines,Online,Basic Plan,No,92,PHILIPPINES,30.0,10.5,M,44
+CSR,Travel Agency,Offline,Comprehensive Plan,No,9,MALAYSIA,29.0,9.57,F,69
+JZI,Airlines,Online,Basic Plan,No,42,HONG KONG,35.0,12.25,F,53
+JZI,Airlines,Online,Value Plan,No,24,HONG KONG,45.0,15.75,F,42
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,54.5,13.63,F,62
+CSR,Travel Agency,Offline,Comprehensive Plan,Yes,72,MALAYSIA,29.0,9.57,F,29
+C2B,Airlines,Online,Gold Plan,Yes,181,SINGAPORE,101.5,25.38,F,39
+JZI,Airlines,Online,Basic Plan,No,42,THAILAND,22.0,7.7,F,27
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,62,THAILAND,29.0,9.57,F,30
+JWT,Airlines,Online,Value Plan,No,3,INDIA,127.0,49.2,F,118
+C2B,Airlines,Online,Silver Plan,Yes,24,SINGAPORE,24.05,6.01,M,32
+C2B,Airlines,Online,Silver Plan,Yes,6,SINGAPORE,18.5,4.63,F,38
+C2B,Airlines,Online,Bronze Plan,No,55,SINGAPORE,16.0,4.0,F,32
+JZI,Airlines,Online,Basic Plan,No,24,"TAIWAN, PROVINCE OF CHINA",0.0,14.0,F,42
+C2B,Airlines,Online,Gold Plan,No,11,SINGAPORE,42.5,10.63,M,51
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,11.5,2.88,F,42
+JZI,Airlines,Online,Basic Plan,No,53,INDONESIA,18.0,6.3,F,47
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,16.0,4.0,M,29
+C2B,Airlines,Online,Bronze Plan,No,6,SINGAPORE,16.0,4.0,F,59
+C2B,Airlines,Online,Silver Plan,No,41,SRI LANKA,56.5,14.13,M,62
+JZI,Airlines,Online,Basic Plan,Yes,12,VIET NAM,22.0,7.7,F,41
+C2B,Airlines,Online,Bronze Plan,No,6,SINGAPORE,25.0,6.25,F,37
+JZI,Airlines,Online,Basic Plan,No,6,MYANMAR,22.0,7.7,F,47
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,8,HONG KONG,46.4,30.16,F,32
+JZI,Airlines,Online,Basic Plan,Yes,10,INDONESIA,18.0,6.3,F,73
+RAB,Airlines,Online,Value Plan,No,22,BRUNEI DARUSSALAM,53.0,20.2,F,29
+C2B,Airlines,Online,Silver Plan,No,103,SINGAPORE,15.0,3.75,F,44
+JZI,Airlines,Online,Value Plan,Yes,156,SPAIN,105.0,38.15,M,41
+RAB,Airlines,Online,Value Plan,No,45,BRUNEI DARUSSALAM,31.0,12.4,M,32
+C2B,Airlines,Online,Silver Plan,Yes,10,SINGAPORE,100.0,25.0,M,32
+C2B,Airlines,Online,Silver Plan,Yes,50,SINGAPORE,78.5,19.63,M,32
+C2B,Airlines,Online,Silver Plan,Yes,7,SINGAPORE,24.05,6.01,M,30
+JZI,Airlines,Online,Basic Plan,Yes,5,INDIA,22.0,7.7,M,32
+C2B,Airlines,Online,Annual Silver Plan,No,390,SINGAPORE,216.0,54.0,M,33
+C2B,Airlines,Online,Bronze Plan,No,21,SINGAPORE,86.5,21.63,M,47
+C2B,Airlines,Online,Annual Silver Plan,Yes,376,SINGAPORE,161.0,40.25,M,47
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,M,58
+JZI,Airlines,Online,Value Plan,No,22,THAILAND,33.0,11.55,F,24
+JZI,Airlines,Online,Basic Plan,No,31,THAILAND,30.0,10.5,M,59
+C2B,Airlines,Online,Bronze Plan,Yes,67,SINGAPORE,53.5,13.38,F,38
+C2B,Airlines,Online,Bronze Plan,No,58,SINGAPORE,27.0,6.75,F,75
+C2B,Airlines,Online,Silver Plan,Yes,40,SINGAPORE,274.4,69.16,F,40
+JZI,Airlines,Online,Basic Plan,No,21,CHINA,40.0,14.0,M,44
+C2B,Airlines,Online,Annual Silver Plan,Yes,393,SINGAPORE,164.0,48.0,F,31
+C2B,Airlines,Online,Annual Silver Plan,Yes,378,SINGAPORE,193.2,48.3,F,26
+C2B,Airlines,Online,Gold Plan,Yes,11,SINGAPORE,72.0,18.0,F,31
+LWC,Travel Agency,Online,Annual Travel Protect Silver,Yes,361,CHINA,5.0,32.25,M,26
+RAB,Airlines,Online,Value Plan,No,67,BRUNEI DARUSSALAM,15.0,6.0,F,46
+C2B,Airlines,Online,Bronze Plan,Yes,29,SINGAPORE,0.0,8.0,F,25
+JZI,Airlines,Online,Basic Plan,Yes,25,"TAIWAN, PROVINCE OF CHINA",26.0,9.1,F,32
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,9,THAILAND,29.0,9.57,F,37
+C2B,Airlines,Online,Annual Silver Plan,No,392,SINGAPORE,252.85,63.21,M,38
+C2B,Airlines,Online,Silver Plan,Yes,7,SINGAPORE,22.5,5.63,F,25
+C2B,Airlines,Online,Gold Plan,No,4,SINGAPORE,26.5,6.63,M,41
+JZI,Airlines,Online,Basic Plan,No,63,HONG KONG,35.0,12.25,F,36
+C2B,Airlines,Online,Silver Plan,No,109,SINGAPORE,33.5,8.38,F,26
+C2B,Airlines,Online,Bronze Plan,Yes,4,SINGAPORE,11.5,2.88,M,30
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,17.55,4.39,M,69
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,F,65
+RAB,Airlines,Online,Value Plan,No,2,BRUNEI DARUSSALAM,15.0,6.0,M,69
+C2B,Airlines,Online,Silver Plan,Yes,181,SINGAPORE,144.0,36.0,F,25
+JZI,Airlines,Online,Basic Plan,Yes,51,THAILAND,22.0,7.7,M,33
+C2B,Airlines,Online,Gold Plan,No,8,SINGAPORE,118.2,29.5,M,29
+JZI,Airlines,Online,Basic Plan,No,28,THAILAND,22.0,7.7,M,49
+JZI,Airlines,Online,Basic Plan,No,6,JAPAN,22.0,7.7,F,49
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,252.85,63.21,M,58
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,4,PHILIPPINES,26.5,17.23,F,32
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,38,PHILIPPINES,54.5,20.13,F,48
+C2B,Airlines,Online,Bronze Plan,Yes,26,SINGAPORE,83.5,20.38,F,65
+JZI,Airlines,Online,Basic Plan,No,81,"TAIWAN, PROVINCE OF CHINA",44.0,15.4,F,30
+JZI,Airlines,Online,Basic Plan,No,21,INDONESIA,18.0,6.3,M,27
+JZI,Airlines,Online,Basic Plan,No,16,"KOREA, REPUBLIC OF",35.0,12.25,M,34
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,18,INDONESIA,58.2,20.05,F,27
+JZI,Airlines,Online,Basic Plan,No,16,CHINA,26.0,9.1,F,42
+C2B,Airlines,Online,Silver Plan,Yes,4,SINGAPORE,22.5,5.63,M,27
+JZI,Airlines,Online,Basic Plan,No,31,"KOREA, REPUBLIC OF",26.0,9.1,F,30
+C2B,Airlines,Online,Silver Plan,No,30,SINGAPORE,32.5,8.13,F,30
+ART,Airlines,Online,24 Protect,No,2,MALAYSIA,8.28,2.01,M,48
+C2B,Airlines,Online,Silver Plan,Yes,22,SINGAPORE,144.0,36.0,F,41
+C2B,Airlines,Online,Silver Plan,No,231,SINGAPORE,47.5,11.88,M,31
+JZI,Airlines,Online,Basic Plan,No,12,INDONESIA,18.0,6.3,F,23
+C2B,Airlines,Online,Annual Gold Plan,Yes,364,SINGAPORE,389.35,97.34,F,66
+JWT,Airlines,Online,Value Plan,No,82,INDIA,50.0,20.0,F,118
+C2B,Airlines,Online,Silver Plan,Yes,20,SINGAPORE,88.5,22.13,F,24
+JWT,Airlines,Online,Value Plan,No,40,INDIA,62.0,24.8,F,118
+JZI,Airlines,Online,Basic Plan,Yes,40,MYANMAR,22.0,7.7,M,39
+KML,Travel Agency,Online,Premier Plan,No,25,FRANCE,100.0,48.1,F,48
+RAB,Airlines,Online,Value Plan,No,34,BRUNEI DARUSSALAM,23.0,9.2,F,70
+JZI,Airlines,Online,Basic Plan,No,88,CHINA,35.0,12.25,M,33
+C2B,Airlines,Online,Bronze Plan,Yes,41,SINGAPORE,27.0,6.75,F,32
+ART,Airlines,Online,24 Protect,No,38,PHILIPPINES,8.63,2.02,F,48
+C2B,Airlines,Online,Bronze Plan,Yes,25,SINGAPORE,62.0,15.5,F,28
+JZI,Airlines,Online,Basic Plan,No,48,THAILAND,30.0,10.5,F,61
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,2,CHINA,45.0,26.25,F,36
+C2B,Airlines,Online,Bronze Plan,Yes,11,SINGAPORE,23.5,5.88,M,27
+C2B,Airlines,Online,Silver Plan,No,23,SINGAPORE,62.5,15.63,F,28
+JZI,Airlines,Online,Basic Plan,Yes,12,THAILAND,22.0,7.7,F,47
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,16.0,4.0,F,28
+C2B,Airlines,Online,Bronze Plan,Yes,122,SINGAPORE,105.6,26.4,F,36
+JZI,Airlines,Online,Basic Plan,No,52,"TAIWAN, PROVINCE OF CHINA",35.0,12.25,F,41
+JZI,Airlines,Online,Basic Plan,Yes,15,BANGLADESH,26.0,9.1,F,35
+JWT,Airlines,Online,Value Plan,No,53,INDIA,75.0,30.0,M,118
+KML,Travel Agency,Online,Value Plan,Yes,56,INDONESIA,48.0,10.14,M,48
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,24.05,6.01,F,27
+C2B,Airlines,Online,Annual Silver Plan,Yes,376,SINGAPORE,193.2,48.3,F,68
+RAB,Airlines,Online,Value Plan,No,4,BRUNEI DARUSSALAM,15.0,6.0,M,33
+KML,Travel Agency,Online,Value Plan,No,97,FRANCE,109.0,41.42,M,48
+JZI,Airlines,Online,Basic Plan,No,29,THAILAND,22.0,7.7,F,64
+C2B,Airlines,Online,Bronze Plan,No,3,SINGAPORE,13.5,3.38,F,28
+JZI,Airlines,Online,Basic Plan,No,32,INDIA,22.0,7.7,F,29
+ART,Airlines,Online,24 Protect,No,4,INDONESIA,18.73,4.63,M,48
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,13.5,3.38,M,27
+TST,Travel Agency,Offline,Travel Cruise Protect,No,72,MALAYSIA,30.0,10.5,F,15
+JZI,Airlines,Online,Basic Plan,Yes,82,JAPAN,40.0,14.0,F,25
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,73,SPAIN,144.0,56.6,F,31
+JZI,Airlines,Online,Value Plan,No,14,JAPAN,45.0,15.75,F,47
+JZI,Airlines,Online,Basic Plan,No,0,PHILIPPINES,18.0,6.3,F,42
+JZI,Airlines,Online,Basic Plan,Yes,67,THAILAND,37.0,12.95,M,46
+JZI,Airlines,Online,Basic Plan,No,33,MYANMAR,33.0,11.55,M,41
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,22.5,5.63,M,57
+TST,Travel Agency,Offline,Travel Cruise Protect,No,29,THAILAND,0.0,10.5,F,15
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,UNITED STATES,252.8,163.21,M,34
+C2B,Airlines,Online,Silver Plan,Yes,106,SINGAPORE,54.6,13.65,F,30
+JZI,Airlines,Online,Basic Plan,Yes,8,INDONESIA,18.0,6.3,M,49
+JZI,Airlines,Online,Value Plan,No,8,"KOREA, REPUBLIC OF",36.0,12.6,M,50
+C2B,Airlines,Online,Bronze Plan,No,97,SINGAPORE,100.1,25.02,F,46
+C2B,Airlines,Online,Silver Plan,Yes,110,SINGAPORE,72.0,18.0,F,42
+JZI,Airlines,Online,Basic Plan,Yes,2,SRI LANKA,22.0,7.7,F,62
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,23.4,5.85,F,27
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,No,10,UNITED KINGDOM,78.0,30.2,F,40
+C2B,Airlines,Online,Silver Plan,Yes,18,SINGAPORE,78.0,19.0,F,29
+C2B,Airlines,Online,Bronze Plan,No,65,SINGAPORE,17.55,4.39,F,27
+C2B,Airlines,Online,Silver Plan,Yes,67,SINGAPORE,108.5,22.13,M,75
+C2B,Airlines,Online,Bronze Plan,No,9,SINGAPORE,27.0,6.75,F,56
+JZI,Airlines,Online,Basic Plan,No,21,THAILAND,22.0,7.7,M,70
+C2B,Airlines,Online,Bronze Plan,Yes,7,SINGAPORE,21.0,5.25,F,48
+C2B,Airlines,Online,Bronze Plan,Yes,28,SINGAPORE,53.5,13.38,F,79
+C2B,Airlines,Online,Silver Plan,No,22,SINGAPORE,84.5,21.13,M,41
+TST,Travel Agency,Offline,Travel Cruise Protect,No,22,THAILAND,30.0,10.5,F,7
+C2B,Airlines,Online,Silver Plan,Yes,22,SINGAPORE,144.0,36.0,F,46
+CBH,Travel Agency,Offline,Comprehensive Plan,No,105,MALAYSIA,29.0,9.57,M,44
+JZI,Airlines,Online,Value Plan,No,27,HONG KONG,58.0,20.3,M,61
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,374,UNITED STATES,216.2,154.53,M,41
+JZI,Airlines,Online,Basic Plan,No,5,INDONESIA,22.0,7.7,M,32
+C2B,Airlines,Online,Annual Silver Plan,Yes,390,SINGAPORE,193.2,48.3,F,65
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,17.0,4.25,F,26
+JZI,Airlines,Online,Basic Plan,No,55,PHILIPPINES,37.0,12.95,F,35
+C2B,Airlines,Online,Bronze Plan,Yes,58,SINGAPORE,57.0,14.25,F,48
+C2B,Airlines,Online,Silver Plan,No,3,SINGAPORE,15.5,3.38,M,45
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,23.5,5.88,F,26
+JZI,Airlines,Online,Basic Plan,No,5,INDIA,22.0,7.7,F,47
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,301.0,75.25,M,44
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,187.85,46.96,F,61
+JZI,Airlines,Online,Basic Plan,No,14,HONG KONG,22.0,7.7,F,53
+C2B,Airlines,Online,Bronze Plan,No,21,SINGAPORE,60.0,15.0,F,39
+C2B,Airlines,Online,Silver Plan,No,102,SINGAPORE,29.5,7.38,F,28
+JZI,Airlines,Online,Basic Plan,No,31,"TAIWAN, PROVINCE OF CHINA",26.0,9.1,M,46
+C2B,Airlines,Online,Bronze Plan,Yes,19,SINGAPORE,53.5,13.38,M,34
+JWT,Airlines,Online,Value Plan,No,30,INDIA,62.0,24.8,F,118
+C2B,Airlines,Online,Bronze Plan,Yes,14,SINGAPORE,17.55,4.39,F,28
+C2B,Airlines,Online,Gold Plan,Yes,7,SINGAPORE,27.5,6.38,F,59
+C2B,Airlines,Online,Bronze Plan,No,71,SINGAPORE,26.5,6.63,F,37
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,193.2,48.3,F,34
+JZI,Airlines,Online,Basic Plan,No,25,THAILAND,18.0,6.3,F,35
+JZI,Airlines,Online,Basic Plan,Yes,127,JAPAN,44.0,15.4,M,61
+JZI,Airlines,Online,Basic Plan,No,66,JAPAN,35.0,12.25,M,56
+JZI,Airlines,Online,Basic Plan,No,24,INDONESIA,22.0,7.7,F,32
+C2B,Airlines,Online,Bronze Plan,No,21,SINGAPORE,20.5,5.13,F,31
+C2B,Airlines,Online,Annual Silver Plan,No,482,SINGAPORE,187.85,46.36,M,31
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,17.55,4.39,M,22
+C2B,Airlines,Online,Silver Plan,Yes,88,SINGAPORE,54.5,13.63,F,32
+JZI,Airlines,Online,Basic Plan,No,0,MYANMAR,18.0,6.3,F,44
+KML,Travel Agency,Online,Value Plan,No,54,INDONESIA,28.0,10.64,M,48
+LWC,Travel Agency,Online,Single Trip Travel Protect Platinum,Yes,18,CHINA,50.0,32.8,M,57
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,54.6,13.65,M,68
+C2B,Airlines,Online,Annual Silver Plan,No,385,SINGAPORE,-216.75,54.19,M,29
+JZI,Airlines,Online,Basic Plan,No,1,MALAYSIA,18.0,6.3,F,27
+JZI,Airlines,Online,Basic Plan,No,17,INDONESIA,30.0,10.5,M,34
+JZI,Airlines,Online,Basic Plan,No,22,MALAYSIA,18.0,6.3,M,55
+CCR,Travel Agency,Offline,Comprehensive Plan,No,34,THAILAND,29.0,9.57,M,36
+C2B,Airlines,Online,Silver Plan,No,42,SINGAPORE,-125.0,46.25,F,46
+C2B,Airlines,Online,Annual Silver Plan,Yes,385,SINGAPORE,216.0,54.0,M,31
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,72.0,18.0,F,32
+RAB,Airlines,Online,Value Plan,No,22,BRUNEI DARUSSALAM,15.0,6.0,F,33
+JZI,Airlines,Online,Basic Plan,No,5,CAMBODIA,18.0,6.3,M,58
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,5,PHILIPPINES,26.5,17.13,F,68
+C2B,Airlines,Online,Annual Silver Plan,Yes,395,SINGAPORE,216.0,54.0,M,39
+C2B,Airlines,Online,Silver Plan,No,14,SINGAPORE,58.9,14.64,M,19
+TST,Travel Agency,Offline,Travel Cruise Protect,No,90,THAILAND,30.0,10.5,F,81
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,11.5,2.88,M,42
+C2B,Airlines,Online,Bronze Plan,Yes,2,SINGAPORE,24.0,5.0,F,28
+JZI,Airlines,Online,Basic Plan,No,5,PHILIPPINES,18.0,6.3,F,36
+JZI,Airlines,Online,Basic Plan,Yes,7,THAILAND,18.0,6.3,F,48
+C2B,Airlines,Online,Gold Plan,No,4,SINGAPORE,27.5,6.88,M,38
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,187.85,46.96,F,64
+JZI,Airlines,Online,Value Plan,No,0,THAILAND,33.0,11.55,F,41
+JZI,Airlines,Online,Basic Plan,Yes,18,"KOREA, REPUBLIC OF",35.0,12.25,F,27
+JWT,Airlines,Online,Value Plan,No,15,INDIA,72.0,28.8,M,118
+C2B,Airlines,Online,Annual Silver Plan,Yes,364,SINGAPORE,216.0,54.0,F,42
+C2B,Airlines,Online,Bronze Plan,Yes,6,SINGAPORE,29.5,7.38,M,60
+JZI,Airlines,Online,Value Plan,No,6,"KOREA, REPUBLIC OF",45.0,15.75,F,27
+KML,Travel Agency,Online,Value Plan,No,66,AUSTRALIA,0.0,20.0,F,48
+JZI,Airlines,Online,Basic Plan,No,27,CHINA,26.0,9.1,M,42
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,216.0,54.0,M,25
+LWC,Travel Agency,Online,Single Trip Travel Protect Platinum,No,8,AUSTRALIA,50.0,20.0,M,60
+JZI,Airlines,Online,Basic Plan,No,72,VIET NAM,22.0,7.7,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,23.4,5.85,F,68
+C2B,Airlines,Online,Annual Silver Plan,Yes,378,SINGAPORE,216.0,54.0,M,35
+TST,Travel Agency,Offline,Travel Cruise Protect,Yes,172,INDONESIA,30.0,10.5,F,68
+C2B,Airlines,Online,Silver Plan,Yes,56,SINGAPORE,78.5,19.63,F,27
+C2B,Airlines,Online,Annual Silver Plan,No,422,SINGAPORE,252.85,63.21,F,43
+JZI,Airlines,Online,Basic Plan,Yes,73,JAPAN,44.0,15.4,M,37
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,18.5,4.63,M,27
+C2B,Airlines,Online,Silver Plan,Yes,73,SINGAPORE,144.0,36.0,F,68
+JZI,Airlines,Online,Basic Plan,Yes,42,JAPAN,35.0,12.25,M,46
+C2B,Airlines,Online,Bronze Plan,Yes,9,SINGAPORE,23.5,5.88,M,29
+C2B,Airlines,Online,Silver Plan,No,35,SINGAPORE,62.0,15.5,M,28
+ART,Airlines,Online,24 Protect,No,1,MALAYSIA,8.44,2.9,M,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,384,SINGAPORE,216.0,54.0,M,36
+C2B,Airlines,Online,Annual Silver Plan,No,482,SINGAPORE,161.0,40.25,F,29
+JZI,Airlines,Online,Basic Plan,No,27,VIET NAM,22.0,7.7,M,35
+JZI,Airlines,Online,Basic Plan,Yes,42,VIET NAM,22.0,7.7,M,28
+C2B,Airlines,Online,Gold Plan,No,20,SINGAPORE,76.5,19.13,F,32
+C2B,Airlines,Online,Silver Plan,No,18,SINGAPORE,29.5,7.38,F,22
+JZI,Airlines,Online,Basic Plan,Yes,10,PHILIPPINES,30.0,10.5,F,47
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,16.0,4.0,M,60
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,16.0,4.0,F,33
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,18.0,4.5,F,32
+JZI,Airlines,Online,Value Plan,Yes,25,"KOREA, REPUBLIC OF",58.0,20.3,F,48
+ART,Airlines,Online,24 Protect,No,61,MALAYSIA,4.44,1.9,M,48
+C2B,Airlines,Online,Bronze Plan,No,23,SINGAPORE,20.5,5.13,F,51
+C2B,Airlines,Online,Bronze Plan,Yes,75,SINGAPORE,23.5,5.88,F,27
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,193.2,48.3,M,39
+C2B,Airlines,Online,Bronze Plan,No,20,SINGAPORE,0.0,8.0,F,52
+C2B,Airlines,Online,Annual Gold Plan,Yes,384,SINGAPORE,389.35,97.34,F,40
+LWC,Travel Agency,Online,Annual Travel Protect Gold,Yes,368,UNITED STATES,256.2,166.53,M,32
+C2B,Airlines,Online,Annual Gold Plan,Yes,487,SINGAPORE,333.5,83.38,F,69
+RAB,Airlines,Online,Value Plan,No,19,BRUNEI DARUSSALAM,23.0,9.2,M,44
+C2B,Airlines,Online,Bronze Plan,Yes,2,SINGAPORE,15.0,3.75,M,30
+C2B,Airlines,Online,Bronze Plan,Yes,3,SINGAPORE,13.5,3.38,F,30
+JZI,Airlines,Online,Basic Plan,No,11,BANGLADESH,26.0,9.1,M,35
+KML,Travel Agency,Online,Premier Plan,No,106,UNITED KINGDOM,109.0,41.02,F,48
+C2B,Airlines,Online,Annual Silver Plan,Yes,385,SINGAPORE,-216.0,54.0,F,60
+C2B,Airlines,Online,Annual Silver Plan,Yes,372,SINGAPORE,161.0,40.25,M,46
+C2B,Airlines,Online,Bronze Plan,Yes,26,SINGAPORE,60.0,15.0,F,27
+C2B,Airlines,Online,Bronze Plan,Yes,18,SINGAPORE,53.5,13.38,F,34
+C2B,Airlines,Online,Single Trip Travel Protect Silver,No,23,SINGAPORE,53.5,13.38,M,47
+C2B,Airlines,Online,Bronze Plan,Yes,24,SINGAPORE,23.5,5.88,F,50
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,21.0,5.25,M,27
+C2B,Airlines,Online,Bronze Plan,Yes,81,SINGAPORE,27.0,6.75,F,28
+C2B,Airlines,Online,Gold Plan,Yes,54,SINGAPORE,36.0,9.0,F,32
+C2B,Airlines,Online,Bronze Plan,No,15,SINGAPORE,23.5,5.88,M,27
+JZI,Airlines,Online,Basic Plan,No,85,INDIA,26.0,9.1,M,39
+C2B,Airlines,Online,Silver Plan,Yes,78,SINGAPORE,72.0,18.0,F,28
+JZI,Airlines,Online,Basic Plan,No,31,AUSTRALIA,26.0,9.1,F,30
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,27.0,6.75,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,78,SINGAPORE,53.5,13.38,M,30
+C2B,Airlines,Online,Annual Silver Plan,Yes,394,SINGAPORE,193.2,48.3,F,31
+C2B,Airlines,Online,Bronze Plan,Yes,78,SINGAPORE,53.5,13.38,F,62
+JZI,Airlines,Online,Basic Plan,No,39,JAPAN,35.0,12.25,F,44
+JZI,Airlines,Online,Value Plan,No,28,PHILIPPINES,33.0,11.55,F,48
+TTW,Travel Agency,Offline,Individual Comprehensive Plan,Yes,364,SINGAPORE,97.0,0.0,M,36
+LWC,Travel Agency,Online,Annual Travel Protect Gold,No,365,UNITED STATES,256.2,166.53,F,29
+C2B,Airlines,Online,Bronze Plan,Yes,17,SINGAPORE,17.55,4.39,F,69
+RAB,Airlines,Online,Value Plan,No,42,BRUNEI DARUSSALAM,15.0,6.0,M,43
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,125.0,25.0,F,27
+C2B,Airlines,Online,Silver Plan,Yes,6,SINGAPORE,22.5,5.63,M,42
+C2B,Airlines,Online,Silver Plan,Yes,6,SINGAPORE,18.5,4.63,M,68
+JZI,Airlines,Online,Basic Plan,Yes,48,THAILAND,22.0,7.7,M,55
+C2B,Airlines,Online,Silver Plan,No,6,SINGAPORE,22.5,5.63,M,41
+JZI,Airlines,Online,Basic Plan,Yes,34,CHINA,22.0,7.7,F,29
+KML,Travel Agency,Online,Value Plan,No,184,CHINA,45.0,15.0,F,31
+JZI,Airlines,Online,Value Plan,No,13,INDIA,58.0,20.3,M,65
+JZI,Airlines,Online,Basic Plan,No,28,PHILIPPINES,22.0,7.7,F,57
+C2B,Airlines,Online,Annual Silver Plan,Yes,372,SINGAPORE,193.2,48.3,F,66
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,252.85,63.21,M,46
+C2B,Airlines,Online,Silver Plan,Yes,13,SINGAPORE,48.5,12.13,F,40
+RAB,Airlines,Online,Value Plan,No,7,BRUNEI DARUSSALAM,23.0,9.2,M,26
+JZI,Airlines,Online,Basic Plan,No,55,PHILIPPINES,30.0,10.5,F,57
+C2B,Airlines,Online,Bronze Plan,Yes,58,SINGAPORE,23.4,5.85,F,22
+C2B,Airlines,Online,Silver Plan,Yes,5,SINGAPORE,42.5,10.63,M,34
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.5,6.13,F,32
+JZI,Airlines,Online,Basic Plan,No,98,JAPAN,40.0,14.0,M,50
+JZI,Airlines,Online,Value Plan,No,107,UNITED KINGDOM,109.0,38.15,F,48
+JWT,Airlines,Online,Value Plan,No,7,INDIA,39.0,15.6,M,118
+JZI,Airlines,Online,Basic Plan,No,10,HONG KONG,26.0,9.1,M,37
+CCR,Travel Agency,Offline,Comprehensive Plan,No,19,THAILAND,18.0,6.57,F,30
+JZI,Airlines,Online,Basic Plan,Yes,7,INDONESIA,22.0,7.7,F,27
+C2B,Airlines,Online,Gold Plan,No,19,SINGAPORE,78.0,19.5,M,31
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,102,MALAYSIA,29.0,9.57,M,29
+C2B,Airlines,Online,Bronze Plan,Yes,95,SINGAPORE,202.0,54.8,M,28
+C2B,Airlines,Online,Annual Silver Plan,Yes,385,SINGAPORE,216.0,54.0,F,41
+LWC,Travel Agency,Online,Annual Travel Protect Silver,Yes,367,UNITED STATES,229.9,149.37,F,69
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,8,PHILIPPINES,36.5,20.13,M,30
+C2B,Airlines,Online,Bronze Plan,Yes,68,SINGAPORE,71.0,17.75,M,70
+C2B,Airlines,Online,Silver Plan,Yes,238,SINGAPORE,161.0,55.25,M,36
+C2B,Airlines,Online,Annual Silver Plan,Yes,373,SINGAPORE,216.0,54.0,M,40
+JZI,Airlines,Online,Basic Plan,No,32,PHILIPPINES,18.0,6.3,F,55
+C2B,Airlines,Online,Bronze Plan,No,8,SINGAPORE,23.5,5.88,F,23
+C2B,Airlines,Online,Bronze Plan,No,24,SINGAPORE,60.0,15.0,F,60
+JZI,Airlines,Online,Basic Plan,No,14,INDONESIA,18.0,6.3,F,43
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,22.5,5.63,M,38
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,108,BRAZIL,4.0,28.6,M,61
+C2B,Airlines,Online,Bronze Plan,No,39,SINGAPORE,0.0,13.25,F,29
+JZI,Airlines,Online,Basic Plan,No,6,INDONESIA,18.0,6.3,M,37
+CCR,Travel Agency,Offline,Comprehensive Plan,No,20,THAILAND,29.0,9.57,F,33
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,Yes,14,CHINA,45.0,36.25,F,46
+CCR,Travel Agency,Offline,Comprehensive Plan,No,6,THAILAND,29.0,9.57,F,27
+C2B,Airlines,Online,Bronze Plan,No,25,SINGAPORE,53.5,13.38,M,50
+JZI,Airlines,Online,Basic Plan,No,39,MALAYSIA,22.0,7.7,F,56
+CBH,Travel Agency,Offline,Comprehensive Plan,Yes,72,THAILAND,29.0,9.57,F,27
+C2B,Airlines,Online,Silver Plan,Yes,28,SINGAPORE,144.5,36.13,F,32
+C2B,Airlines,Online,Gold Plan,No,10,SINGAPORE,144.25,36.96,F,43
+C2B,Airlines,Online,Bronze Plan,No,6,SINGAPORE,16.0,4.0,F,70
+C2B,Airlines,Online,Silver Plan,Yes,33,SINGAPORE,88.95,22.09,M,22
+C2B,Airlines,Online,Silver Plan,Yes,110,SINGAPORE,72.0,18.0,F,32
+JZI,Airlines,Online,Basic Plan,No,2,CHINA,18.0,6.3,M,43
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,24.5,6.13,F,30
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,193.2,48.3,M,37
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,301.0,75.25,M,37
+C2B,Airlines,Online,Bronze Plan,Yes,90,SINGAPORE,53.5,13.38,F,70
+JZI,Airlines,Online,Value Plan,No,23,INDIA,58.0,20.3,F,69
+C2B,Airlines,Online,Silver Plan,No,41,SINGAPORE,27.0,6.75,F,31
+JZI,Airlines,Online,Basic Plan,Yes,35,JAPAN,40.0,14.0,F,39
+C2B,Airlines,Online,Bronze Plan,No,23,SINGAPORE,29.5,7.38,F,45
+C2B,Airlines,Online,Annual Silver Plan,Yes,392,SINGAPORE,216.0,54.0,F,25
+C2B,Airlines,Online,Annual Gold Plan,Yes,390,SINGAPORE,291.75,74.94,M,41
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,187.85,46.96,F,31
+CCR,Travel Agency,Offline,Comprehensive Plan,Yes,67,THAILAND,29.0,9.57,F,27
+JZI,Airlines,Online,Basic Plan,No,28,THAILAND,18.0,6.3,M,57
+C2B,Airlines,Online,Rental Vehicle Excess Insurance,No,6,SINGAPORE,15.0,3.75,F,32
+JZI,Airlines,Online,Basic Plan,No,18,MALAYSIA,18.0,6.3,F,28
+JZI,Airlines,Online,Basic Plan,No,7,THAILAND,22.0,7.7,F,43
+JZI,Airlines,Online,Basic Plan,Yes,55,THAILAND,22.0,7.7,F,22
+LWC,Travel Agency,Online,Single Trip Travel Protect Silver,Yes,8,INDONESIA,29.5,17.38,F,64
+C2B,Airlines,Online,Bronze Plan,Yes,5,SINGAPORE,13.5,3.38,M,37
+JZI,Airlines,Online,Basic Plan,No,57,CHINA,26.0,9.1,M,39
+JZI,Airlines,Online,Basic Plan,No,45,"KOREA, REPUBLIC OF",35.0,12.25,M,27
+C2B,Airlines,Online,Annual Silver Plan,Yes,382,SINGAPORE,216.0,54.0,F,36
+JZI,Airlines,Online,Basic Plan,No,29,CHINA,56.0,19.6,F,62
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,216.0,54.0,M,60
+C2B,Airlines,Online,Annual Silver Plan,Yes,368,SINGAPORE,187.85,46.96,F,37
+C2B,Airlines,Online,Silver Plan,Yes,12,SINGAPORE,72.0,18.0,F,28
+C2B,Airlines,Online,Bronze Plan,Yes,12,SINGAPORE,53.5,13.38,F,34
+C2B,Airlines,Online,Annual Silver Plan,Yes,387,SINGAPORE,-291.75,72.94,F,36
+C2B,Airlines,Online,Silver Plan,Yes,8,SINGAPORE,18.5,4.63,M,23
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,216.0,54.0,M,27
+JZI,Airlines,Online,Basic Plan,No,31,VIET NAM,22.0,7.7,F,44
+JZI,Airlines,Online,Basic Plan,Yes,5,MYANMAR,18.0,6.3,M,40
+ART,Airlines,Online,24 Protect,No,9,PHILIPPINES,8.28,2.01,M,48
+JZI,Airlines,Online,Basic Plan,No,4,MALAYSIA,18.0,6.3,M,57
+C2B,Airlines,Online,Silver Plan,No,12,SINGAPORE,42.5,10.63,M,22
+C2B,Airlines,Online,Annual Silver Plan,Yes,366,SINGAPORE,216.0,54.0,F,37
+JZI,Airlines,Online,Basic Plan,No,54,PHILIPPINES,52.0,18.2,F,50
+C2B,Airlines,Online,Bronze Plan,No,2,SINGAPORE,15.0,3.75,F,75
+C2B,Airlines,Online,Silver Plan,Yes,182,SINGAPORE,117.5,29.38,F,26
+C2B,Airlines,Online,Bronze Plan,Yes,38,SINGAPORE,50.0,12.5,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,25,SINGAPORE,81.5,20.38,F,30
+JZI,Airlines,Online,Basic Plan,No,4,INDONESIA,18.0,6.3,F,25
+JZI,Airlines,Online,Basic Plan,No,24,THAILAND,18.0,6.3,F,71
+LWC,Travel Agency,Online,Single Trip Travel Protect Gold,No,16,UNITED KINGDOM,76.25,43.76,F,52
+C2B,Airlines,Online,Bronze Plan,Yes,72,SINGAPORE,144.6,36.4,F,48
+C2B,Airlines,Online,Silver Plan,No,79,SINGAPORE,8.0,4.7,M,53
+CSR,Travel Agency,Offline,Comprehensive Plan,No,77,MALAYSIA,129.0,37.57,F,64
+RAB,Airlines,Online,Value Plan,No,34,BRUNEI DARUSSALAM,15.0,6.0,F,47
+JZI,Airlines,Online,Basic Plan,No,46,INDONESIA,30.0,10.5,F,71
+C2B,Airlines,Online,Bronze Plan,No,37,SINGAPORE,0.0,13.25,F,39
+JZI,Airlines,Online,Basic Plan,No,18,INDONESIA,22.0,7.7,M,57
+JZI,Airlines,Online,Value Plan,No,83,FRANCE,181.0,82.35,F,57
+JZI,Airlines,Online,Value Plan,Yes,113,UNITED STATES,164.0,57.4,F,35
+C2B,Airlines,Online,Silver Plan,Yes,55,SINGAPORE,78.5,19.63,F,60
+C2B,Airlines,Online,Annual Silver Plan,Yes,365,SINGAPORE,193.2,48.3,F,31
+C2B,Airlines,Online,Bronze Plan,No,72,SINGAPORE,46.8,11.7,F,28
+C2B,Airlines,Online,Bronze Plan,Yes,8,SINGAPORE,25.2,6.3,F,30
+JZI,Airlines,Online,Basic Plan,No,12,THAILAND,18.0,6.3,F,56
+C2B,Airlines,Online,Bronze Plan,Yes,55,SINGAPORE,57.0,14.25,F,32
+C2B,Airlines,Online,Bronze Plan,Yes,12,SINGAPORE,47.0,11.75,F,39

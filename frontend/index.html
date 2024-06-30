@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RF - Demo - 2</title>
+    <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <select id="dropdown">
+                <option value="regression">Regression Task</option>
+                <option value="classification">Classification Task</option>
+            </select>
+            <h1>Random Forest on any Table</h1>
+        </header>
+        <main>
+            <div class="model-training">
+                <div class="table-input">
+                    <div class="upload-icon">📁</div>
+                    <label for="tableUpload">
+                        Add Cleaned Table (.xlsx, .csv, .tsv)!!!
+                    </label>
+                    <input type="file" id="tableUpload" accept=".xlsx, .csv, .tsv">
+                </div>
+                <div class="target-specify">
+                    <label for="targetColumn">Column Target</label>
+                    <div>
+                        <input type="text" id="targetColumn" name="targetColumn">
+                    </div>
+                </div>
+                <div class="encoding-specify">
+                    <label>Specify Encoding for Columns</label>
+                    <div id="encodingColumnsContainer">
+                        <div class="encoding-entry">
+                            <input type="text" name="encodingColumn" placeholder="Column Name">
+                            <select name="encodingType">
+                                <option value="ordinal">Ordinal Encoding</option>
+                                <option value="loo">Leave One Out Encoding</option>
+                                <option value="label">Label Encoding</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button id="addEncodingColumn">Add Another Column</button>
+                </div>
+                <button id="runRF">Run RF!</button>
+            </div>
+            <label>Below are the overview of the DataFrame</label>
+            <div id="dataframeHead">
+                <!-- Dataframe head will be displayed here -->
+            </div>
+            <div class="outputImage">
+                <div>
+                    <label>Below is the dataframe correlation heat map</label>
+                    <img id="correlationHeatmap" alt="Correlation heat map will appear here">
+                </div>
+                <div>
+                    <label>Below is the model feature importance</label>
+                    <img id="featureImportance" src="" alt="Feature importance will appear here">
+                </div>
+                <div>
+                    <label>Below is the performance of the trained model</label>
+                    <div id="performanceMetrics"></div>
+                </div>
+            </div>
+            <div id="progressContainer">
+                <div id="progressBar" style="width: 0%;">0%</div>
+            </div>
+            <div class="model-predict">
+                <div class="table-input">
+                    <div class="upload-icon">📁</div>
+                    <label for="predictTableUpload">
+                        Upload Table for Prediction (.xlsx, .csv, .tsv)!!!
+                    </label>
+                    <input type="file" id="predictTableUpload" accept=".xlsx, .csv, .tsv">
+                </div>
+                <div class="target-predict">
+                    <div>
+                        <label>Predicted Target</label>
+                        <span id="targetPredict"></span>
+                    </div>
+                </div>
+                <button id="predictRF">Predict</button>
+            </div>
+            <label>Below are the overview of the test DataFrame</label>
+            <div id="dataframeTest">
+                <!-- Dataframe test will be displayed here -->
+            </div>
+        </main>
+    </div>
+    <script src="/frontend/script.js"></script>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+</body>
+</html>

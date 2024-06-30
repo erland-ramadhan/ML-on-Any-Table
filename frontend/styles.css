@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header select {
+    padding: 5px;
+    font-size: 18px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+main {
+    margin-top: 20px;
+}
+
+.model-training, .model-predict {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.table-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+.table-input:hover {
+    border-color: #888;
+    background-color: #f0f0f0;
+}
+
+.table-input label {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.table-input input[type="file"] {
+    display: none;
+}
+
+.upload-icon {
+    font-size: 50px;
+    color: #aaa;
+}
+
+.target-specify, .target-predict {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.target-specify, .target-predict div {
+    display: flex;
+    flex-direction: column;
+}
+
+.target-specify, .target-predict label {
+    margin-bottom: 10px;
+}
+
+.target-specify input {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.target-predict output {
+    padding: 5px;
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.encoding-specify {
+    margin-bottom: 20px;
+}
+
+.encoding-entry {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    gap: 10px; /* Add space between the input and select */
+}
+
+.encoding-entry input {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.encoding-entry select {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.model-predict span{
+    margin-bottom: 5px;
+}
+
+.outputImage {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.outputImage div {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+}
+
+.outputImage label {
+    margin-bottom: 15px;
+}
+
+.outputImage img {
+    max-width: 100%;
+    height: auto;
+}
+
+#addEncodingColumn {
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#progressContainer {
+    width: 100%;
+    background-color: #f3f3f3;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+
+#progressBar {
+    width: 0%;
+    height: 30px;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
