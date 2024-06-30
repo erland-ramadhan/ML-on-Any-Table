@@ -53,6 +53,9 @@ app.config["FRONTEND_FOLDER"] = FRONTEND_FOLDER
 if not os.path.exists(app.config["UPLOAD_FOLDER"]):
     os.makedirs(app.config["UPLOAD_FOLDER"])
 
+if not os.path.exists(app.config["MODEL_FOLDER"]):
+    os.makedirs(app.config["MODEL_FOLDER"])
+
 
 def allowed_file(filename):
     return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -285,14 +288,14 @@ def train_model():
     importance_image = base64.b64encode(buf.read()).decode("utf-8")
     buf.close()
 
+    socketio.emit(
+        "train_complete", {"importance": importance_image, "metrics": df_metrics}
+    )
+
     model_path = os.path.join(app.config["MODEL_FOLDER"], "encoder_and_trained_rf.pkl")
 
     with open(model_path, "wb") as f:
         joblib.dump((bayes_search, encoders), f, compress="lz4")
-
-    socketio.emit(
-        "train_complete", {"importance": importance_image, "metrics": df_metrics}
-    )
 
     json_outputs = {
         "message": "Model trained successfully",
@@ -361,11 +364,5 @@ def index():
 
 
 if __name__ == "__main__":
-    if not os.path.exists(app.config["UPLOAD_FOLDER"]):
-        os.makedirs(app.config["UPLOAD_FOLDER"])
-
-    if not os.path.exists(app.config["MODEL_FOLDER"]):
-        os.makedirs(app.config["MODEL_FOLDER"])
-
     server = pywsgi.WSGIServer(("0.0.0.0", 8000), app, handler_class=WebSocketHandler)
     socketio.run(app, host="0.0.0.0", port=8000, debug=True)
