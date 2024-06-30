@@ -196,14 +196,12 @@ def train_model():
         )
         cv_ = StratifiedKFold(n_splits=5, shuffle=True)
         scoring_ = "f1"
-        model = RandomForestClassifier(
-            bootstrap=True, class_weight="balanced", n_jobs=4
-        )
+        model = RandomForestClassifier(bootstrap=True, class_weight="balanced")
     else:
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
         cv_ = KFold(n_splits=5, shuffle=True)
         scoring_ = "neg_mean_squared_error"
-        model = RandomForestRegressor(bootstrap=True, n_jobs=4)
+        model = RandomForestRegressor(bootstrap=True)
 
     bayes_search = BayesSearchCV(
         estimator=model,
@@ -211,7 +209,7 @@ def train_model():
         n_iter=50,
         scoring=scoring_,
         cv=cv_,
-        n_jobs=2,
+        n_jobs=4,
     )
 
     callback_fn = custom_callback(total_iterations=50)
