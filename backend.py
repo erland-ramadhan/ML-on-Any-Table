@@ -2,9 +2,6 @@ from gevent import monkey
 
 monkey.patch_all()
 
-from gevent import pywsgi
-from geventwebsocket.handler import WebSocketHandler
-
 import io
 import os
 import joblib
@@ -369,5 +366,4 @@ if __name__ == "__main__":
     if not os.path.exists(app.config["MODEL_FOLDER"]):
         os.makedirs(app.config["MODEL_FOLDER"])
 
-    server = pywsgi.WSGIServer(("0.0.0.0", 8000), app, handler_class=WebSocketHandler)
     socketio.run(app, host="0.0.0.0", port=8000, debug=True)
