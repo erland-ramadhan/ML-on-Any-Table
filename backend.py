@@ -211,7 +211,7 @@ def train_model():
         n_iter=50,
         scoring=scoring_,
         cv=cv_,
-        n_jobs=-1,
+        n_jobs=2,
     )
 
     callback_fn = custom_callback(total_iterations=50)
