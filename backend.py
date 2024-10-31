@@ -1,5 +1,4 @@
 from gevent import monkey
-
 monkey.patch_all()
 
 from gevent import pywsgi
@@ -28,11 +27,7 @@ from sklearn.preprocessing import OrdinalEncoder, LabelEncoder
 from skopt import BayesSearchCV
 from skopt.space import Real, Integer, Categorical
 from sklearn.metrics import accuracy_score, precision_score, recall_score
-from sklearn.metrics import (
-    mean_absolute_error,
-    mean_squared_error,
-    mean_absolute_percentage_error,
-)
+from sklearn.metrics import mean_absolute_error, mean_squared_error, mean_absolute_percentage_error
 
 from tqdm import tqdm
 
@@ -56,10 +51,8 @@ if not os.path.exists(app.config["UPLOAD_FOLDER"]):
 if not os.path.exists(app.config["MODEL_FOLDER"]):
     os.makedirs(app.config["MODEL_FOLDER"])
 
-
 def allowed_file(filename):
     return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
-
 
 def load_file(filepath):
     try:
@@ -80,7 +73,6 @@ def load_file(filepath):
         raise ValueError("No columns to parse from file")
     except Exception as e:
         raise ValueError(f"Error loading file: {e}")
-
 
 @app.route("/upload", methods=["POST"])
 def upload_file():
@@ -126,7 +118,6 @@ def upload_file():
     else:
         return jsonify({"error": "Unsupported file format"})
 
-
 # Define a callable class for the callback
 class ProgressCallback:
     def __init__(self, total_iterations):
@@ -144,11 +135,9 @@ class ProgressCallback:
         self.pbar.close()
         self.pbar = None
 
-
 # Function to create the ProgressCallback instance
 def custom_callback(total_iterations):
     return ProgressCallback(total_iterations)
-
 
 @app.route("/train", methods=["POST"])
 def train_model():
@@ -194,9 +183,7 @@ def train_model():
     }
 
     if task_type == "classification":
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=0.2, stratify=y
-        )
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y)
         cv_ = StratifiedKFold(n_splits=5, shuffle=True)
         scoring_ = "f1"
         model = RandomForestClassifier(bootstrap=True, class_weight="balanced")
@@ -212,7 +199,7 @@ def train_model():
         n_iter=50,
         scoring=scoring_,
         cv=cv_,
-        n_jobs=4,
+        n_jobs=-1
     )
 
     callback_fn = custom_callback(total_iterations=50)
@@ -268,7 +255,8 @@ def train_model():
     feature_importances = bayes_search.best_estimator_.feature_importances_
     feature_names = X.columns
     importance_df = pd.DataFrame(
-        {"feature": feature_names, "importance": feature_importances}
+        {"feature": feature_names,
+         "importance": feature_importances}
     ).sort_values(by="importance", ascending=False)
 
     # Plotting with seaborn and using io.BytesIO to avoid file I/O
@@ -288,14 +276,14 @@ def train_model():
     importance_image = base64.b64encode(buf.read()).decode("utf-8")
     buf.close()
 
-    socketio.emit(
-        "train_complete", {"importance": importance_image, "metrics": df_metrics}
-    )
-
     model_path = os.path.join(app.config["MODEL_FOLDER"], "encoder_and_trained_rf.pkl")
 
     with open(model_path, "wb") as f:
         joblib.dump((bayes_search, encoders), f, compress="lz4")
+
+    socketio.emit(
+        "train_complete", {"importance": importance_image, "metrics": df_metrics}
+    )
 
     json_outputs = {
         "message": "Model trained successfully",
@@ -303,7 +291,6 @@ def train_model():
     }
 
     return jsonify(json_outputs)
-
 
 @app.route("/predict", methods=["POST"])
 def predict():
@@ -343,25 +330,20 @@ def predict():
             prediction = encoders[target_column].inverse_transform(prediction)
 
         # Since the input is a single row, return the single prediction value
-        prediction_value = (
-            prediction[0] if isinstance(prediction, (list, np.ndarray)) else prediction
-        )
+        prediction_value = prediction[0] if isinstance(prediction, (list, np.ndarray)) else prediction
         displayed_prediction = target_column + ": " + str(prediction_value)
 
         return jsonify({"prediction": displayed_prediction})
 
     return jsonify({"error": "Unsupported file format"})
 
-
 @app.route("/frontend/<path:filename>")
 def static_files(filename):
     return send_from_directory(app.config["FRONTEND_FOLDER"], filename)
 
-
 @app.route("/")
 def index():
     return render_template("index.html")
-
 
 if __name__ == "__main__":
     server = pywsgi.WSGIServer(("0.0.0.0", 8000), app, handler_class=WebSocketHandler)
