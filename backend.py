@@ -21,6 +21,9 @@ import seaborn as sns
 
 from category_encoders import LeaveOneOutEncoder
 
+from sklearnex import patch_sklearn
+patch_sklearn()
+
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.model_selection import train_test_split, StratifiedKFold, KFold
 from sklearn.preprocessing import OrdinalEncoder, LabelEncoder
