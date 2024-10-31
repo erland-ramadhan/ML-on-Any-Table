@@ -1,4 +1,4 @@
-name: ML_on_any_Table
+name: ml-any-table
 channels:
   - conda-forge
 dependencies:
