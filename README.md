@@ -46,3 +46,5 @@ Once the `Debugger is activated!` message appear in the terminal, open the brows
 ### Demo
 
 The tutorial video on how to use the web app is provided below.
+
+https://github.com/user-attachments/assets/a6774cb7-c922-4785-84dc-5b524dd276d1
