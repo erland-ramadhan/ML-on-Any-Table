@@ -2,9 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,vim,tex,python
 
 # Generated file due to rerun
-./frontend/*
-./models/*
-
+uploads/
+models/
 ### macOS ###
 # General
 .DS_Store
